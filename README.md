@@ -187,8 +187,6 @@ https://github.com/filamentgroup/Southstreet
 https://css-tricks.com/building-resizeable-components-relative-css-units/
 - CSS-only UI components  
 http://youmightnotneedjs.com/
-- CSS & JS snippets  
-https://www.30secondsofcode.org/
 - 1-line JS snippets  
 https://1loc.dev/
 - Functions to transform arrays and objects (tidy.js)  
@@ -572,6 +570,7 @@ https://github.com/deoostfreese/Parvus (nice zoom animation; small footprint)
 - https://formsubmit.co/
 - https://formspree.io/
 - https://formbucket.com/
+- https://www.typeform.com/
 - Search engine: https://typesense.org/
 - Client-side search: https://fusejs.io/
 - Comment system: https://docs.coralproject.net/coral/
@@ -618,11 +617,11 @@ https://www.11ty.io/
     - https://news.ycombinator.com/item?id=13300023
     - https://news.ycombinator.com/item?id=16929408 
 - contentful (expensive)
-- backendless (used by exp.design w/ unity)
+- backendless
 - firebase (for managing real time state)
 - gatsby (can use wordpress as a source)
 - Self-hosted headless CMS store with API
-    - https://directus.io/ (free, looks good!)
+    - https://directus.io/
     - https://strapi.io/
     - https://getcockpit.com/documentation/getting-started/requirements
     - https://scotch.io/bar-talk/the-future-of-websites-headless-cmss
@@ -655,7 +654,7 @@ https://12factor.net/
 - local/flywheel 
 - laravel/valet
 - Nix  
-https://nix.dev/
+https://nix.dev/  
 https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html
 
 ## CLI App Dev
@@ -667,7 +666,7 @@ https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.h
 ## Security
 - https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md
 - https://blog.appcanary.com/2017/http-security-headers.html
-- https://observatory.mozilla.org/analyze.html?host=matchboxcreative.com
+- https://observatory.mozilla.org/
 - https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/
 - https://www.smashingmagazine.com/2017/06/guide-switching-http-https/
 
@@ -702,8 +701,8 @@ https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52ca
 
 ## Aligning Text
 - Aligning text baselines with form elements  
-https://jsfiddle.net/05a1aeg1/
-- https://codyhouse.co/blog/post/vertical-text-alignment-in-buttons-and-inputs
+https://jsfiddle.net/05a1aeg1/  
+https://codyhouse.co/blog/post/vertical-text-alignment-in-buttons-and-inputs
 - Resize text to fit container  
 https://github.com/rikschennink/fitty
 - Line-height + calc()  
@@ -801,14 +800,17 @@ https://medium.com/14islands/developing-a-performant-custom-cursor-89f1688a02eb
 
 ## Text Effects
 - https://blotter.js.org/
-- https://tobiasahlin.com/moving-letters/
+- Animating letters  
+https://tobiasahlin.com/moving-letters/
+https://web.dev/building-split-text-animations/
 - Typing animation  
 https://lumin.rocks/  
 https://edernclemente.com/plugin/typelighterjs  
 http://thednp.github.io/kute.js/text.html  
 https://css-tricks.com/snippets/css/typewriter-effect/  
 https://github.com/photopea/Typr.js
-- https://github.com/opentypejs/opentype.js
+- Read and write OpenType fonts using JavaScript  
+https://github.com/opentypejs/opentype.js
 - Convert to 3D zdog illustration  
 https://jaames.github.io/zfont/
 - 3D test  
@@ -817,8 +819,6 @@ https://bennettfeely.com/ztext/
 https://github.com/codrops/CSSMarqueeMenu/
 - Animating real underlines  
 https://css-irl.info/animating-underlines/
-- Animating letters in text  
-https://web.dev/building-split-text-animations/
 
 # Scrolling
 
