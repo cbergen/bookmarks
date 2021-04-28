@@ -287,6 +287,8 @@ https://github.com/filamentgroup/criticalCSS
 - https://css-tricks.com/how-to-section-your-html/
 - Horizontal rules  
 https://www.sarasoueidan.com/blog/horizontal-rules/
+- HEAD elements  
+https://htmlhead.dev/
 
 ## Forms
 - JavaScript upload widget  
@@ -561,6 +563,7 @@ https://github.com/deoostfreese/Parvus (nice zoom animation; small footprint)
 ## PaaS
 - dokku: https://news.ycombinator.com/item?id=19015504
 - rancher
+- Piku: https://github.com/piku/piku
 - https://caprover.com/
 
 ## Form Processing
@@ -814,6 +817,8 @@ https://bennettfeely.com/ztext/
 https://github.com/codrops/CSSMarqueeMenu/
 - Animating real underlines  
 https://css-irl.info/animating-underlines/
+- Animating letters in text  
+https://web.dev/building-split-text-animations/
 
 # Scrolling
 
@@ -949,6 +954,9 @@ https://openweathermap.org/
 ## Charts
 - Markdown-like script language for generating charts from text via javascript  
 https://mermaid-js.github.io/mermaid/#/
+- Flowchart, sitemap drawing tools  
+https://asciiflow.com/  
+https://www.gloomaps.com/
 
 # Design / UX
 
