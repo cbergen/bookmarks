@@ -643,7 +643,7 @@ Contents
 -   Importing files from localhost to web server  
     http://wordpress.stackexchange.com/questions/87395/import-media-to-online-wordpress-from-local-development
 -   WordPress performance  
-    AWS - https://news.ycombinator.com/item?id=12844173   
+    AWS - https://news.ycombinator.com/item?id=12844173  
     https://poststatus.com/scaling-wp-draft/  
     http://wordpress.stackexchange.com/questions/166448/how-to-optimize-wp-site-for-millions-of-posts  
     https://thomasgriffin.io/optimize-wordpress-queries/  
@@ -831,6 +831,8 @@ Contents
 
 ## Animation Libraries
 
+See also: [Data Viz Libraries](#data-viz-libraries)
+
 -   https://popmotion.io/
 -   http://animejs.com/documentation
 -   Green Sock - GSAP
@@ -985,9 +987,9 @@ Contents
 ## 3-D / Immersive
 
 -   WebGL + scrolling  
-    Demo https://newsinteractives.cbc.ca/continentaldivide/  
-     - uses: scrollmagic, three.js, tween.js
-    Demo https://www.nytimes.com/interactive/2018/05/01/science/mars-nasa-insight-ar-3d-ul.html - uses: three.js + lots of custom JS - JS is readable: https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/build.js
+    Demo https://newsinteractives.cbc.ca/continentaldivide/
+    -   uses: scrollmagic, three.js, tween.js
+        Demo https://www.nytimes.com/interactive/2018/05/01/science/mars-nasa-insight-ar-3d-ul.html - uses: three.js + lots of custom JS - JS is readable: https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/build.js
 -   3D fly-through dependency graph  
     https://github.com/anvaka/pm
 -   Guide to WebGL  
@@ -1028,7 +1030,7 @@ Contents
     https://ptsjs.org/
 -   ReactJS Dataviz  
     https://formidable.com/open-source/victory/
--   http://processingjs.org/
+-   Processing + JS: https://p5js.org/
 -   Functions to help manipulate data  
     https://pbeshai.github.io/tidy/
 
