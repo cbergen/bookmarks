@@ -101,6 +101,7 @@ Contents
     -   [Data APIs](#data-apis)
     -   [Three.js](#three.js)
     -   [Charts](#charts)
+    -   [Infographics Inspiration](#infographics-inspiration)
 
 -   [Design / UX](#design-/-ux)
 
@@ -355,6 +356,8 @@ Contents
     https://smolcss.dev/
 -   Detect elements resize  
     https://github.com/wnr/element-resize-detector
+-   Resizable columns (gutter handle)  
+    https://github.com/nathancahill/split
 
 ## Tooltips
 
@@ -1050,6 +1053,11 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Flowchart, sitemap drawing tools  
     https://asciiflow.com/  
     https://www.gloomaps.com/
+
+## Infographics Inspiration
+
+-   Military Infographics  
+    https://medium.com/message/amazing-military-infographics-1ba60bdc32e7
 
 # Design / UX
 
