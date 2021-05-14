@@ -607,9 +607,11 @@ Contents
 
 ## PaaS
 
--   dokku: https://news.ycombinator.com/item?id=19015504
+-   dokku  
+    https://news.ycombinator.com/item?id=19015504
 -   rancher
--   Piku: https://github.com/piku/piku
+-   Piku  
+    https://github.com/piku/piku
 -   https://caprover.com/
 
 ## Form Processing
@@ -620,9 +622,12 @@ Contents
 -   https://formspree.io/
 -   https://formbucket.com/
 -   https://www.typeform.com/
--   Search engine: https://typesense.org/
--   Client-side search: https://fusejs.io/
--   Comment system: https://docs.coralproject.net/coral/
+-   Search engine  
+    https://typesense.org/
+-   Client-side search  
+    https://fusejs.io/
+-   Comment system  
+    https://docs.coralproject.net/coral/
 
 ## Authentication
 
