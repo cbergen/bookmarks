@@ -362,11 +362,13 @@ Contents
 ## Tooltips
 
 -   https://atomiks.github.io/tippyjs/
--   http://bubb.surge.sh/
+-   Old, but includes CSS-only samples  
+    http://bubb.surge.sh/
 -   https://sarasoueidan.com/blog/accessible-tooltips/
--   https://mightycrow.github.io/wenk/
--   http://codepen.io/fabriziocuscini/pen/kkaaOv
+-   CSS-only  
+    http://codepen.io/fabriziocuscini/pen/kkaaOv
 -   https://github.com/Simonwep/nanopop
+-   https://github.com/popperjs/popper-core
 
 ## Accordion
 
@@ -378,6 +380,8 @@ Contents
 
 -   https://kyusuf.com/post/completely-css-progressively-collapsing-navigation
 -   https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/
+-   Site structure for a large website  
+    https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/
 
 ## Tables
 
@@ -928,6 +932,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Smooth out mousewheel...  
     https://stackoverflow.com/a/47206289/3976381
 -   https://locomotivemtl.github.io/locomotive-scroll/
+-   Horizontal scrolling  
+    https://css-tricks.com/pure-css-horizontal-scrolling/
 
 ## Parallax
 
@@ -1022,6 +1028,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 ## Panning/Zooming
 
 -   https://github.com/anvaka/panzoom
+-   https://github.com/bumbu/svg-pan-zoom
 
 ## Arrows
 
