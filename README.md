@@ -368,7 +368,8 @@ Contents
 -   CSS-only  
     http://codepen.io/fabriziocuscini/pen/kkaaOv
 -   https://github.com/Simonwep/nanopop
--   https://github.com/popperjs/popper-core
+-   Lots of options:  
+    https://github.com/popperjs/popper-core
 
 ## Accordion
 
@@ -571,6 +572,8 @@ Contents
     https://svgcrop.com/
 -   Performance (incl: avoid complicated filters)  
     https://codepen.io/tigt/post/improving-svg-rendering-performance
+-   Convert SVG to canvas  
+    https://github.com/fabricjs/fabric.js
 
 ## Image Galleries
 
@@ -675,7 +678,6 @@ Contents
     -   role based access to content only available on expensive team plans
 -   https://www.getlektor.com/
 -   Hugo
--   comparison: https://news.ycombinator.com/item?id=12672394
 -   CMS & ecommerce recommendations
     -   https://www.moltin.com/commerce-solutions
     -   https://news.ycombinator.com/item?id=13300023
@@ -791,6 +793,8 @@ Contents
     https://github.com/robertknight/tex-linebreak
 -   Aligning text vertically based on cap-size  
     https://seek-oss.github.io/capsize/
+-   Fluid text with clamp()  
+    https://fluid-typography.netlify.app/
 
 ## Typography
 
@@ -1008,6 +1012,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://github.com/anvaka/pm
 -   Guide to WebGL  
     https://xem.github.io/articles/webgl-guide.html
+-   Hand gestures (minority report?)  
+    https://handsfree.js.org/
 
 ## Maps
 
@@ -1029,6 +1035,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   https://github.com/anvaka/panzoom
 -   https://github.com/bumbu/svg-pan-zoom
+-   https://svelte-parts.surge.sh/zoom/
 
 ## Arrows
 
@@ -1048,6 +1055,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Processing + JS: https://p5js.org/
 -   Functions to help manipulate data  
     https://pbeshai.github.io/tidy/
+-   Timelines  
+    https://github.com/visjs/vis-timeline
 
 ## Data APIs
 
