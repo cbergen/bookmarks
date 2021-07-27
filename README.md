@@ -242,7 +242,8 @@ Contents
 -   Strong types in javascript  
     https://www.typescriptlang.org/docs/tutorial.html  
     http://elm-lang.org/
-    https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/
+    https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/  
+    https://spin.atomicobject.com/2021/05/11/3-useful-typescript-patterns/
 -   Polyfills  
     https://github.com/zloirock/core-js  
     https://philipwalton.com/articles/loading-polyfills-only-when-needed/
@@ -358,6 +359,10 @@ Contents
     https://github.com/wnr/element-resize-detector
 -   Resizable columns (gutter handle)  
     https://github.com/nathancahill/split
+-   Hero images / overlays  
+    https://css-tricks.com/positioning-overlay-content-with-css-grid/
+-   The 100vh bug (full height)  
+    https://css-tricks.com/the-trick-to-viewport-units-on-mobile/
 
 ## Tooltips
 
@@ -428,6 +433,9 @@ Contents
 -   https://eduardoboucas.com/blog/2017/09/25/svg-clip-path-logo-colour.html
 -   Header foreground colour changing based on background  
     https://codyhouse.co/tutorials/chameleonic-header-effect
+-   Text overlay / scrim
+    https://css-tricks.com/design-considerations-text-images/  
+    https://blog.iamsuleiman.com/techniques-to-display-text-overlay-background-images/
 
 ## Colour Schemes
 
@@ -587,6 +595,7 @@ Contents
 -   https://github.com/rcbyr/keen-slider
 -   Basic functionality only: https://davidcetinkaya.github.io/embla-carousel/
 -   https://swiperjs.com/
+-   https://naver.github.io/egjs-flicking/
 
 ## Modals
 
@@ -603,6 +612,7 @@ Contents
 ## Drag and Drop
 
 -   https://github.com/isaacHagoel/svelte-dnd-action
+-   https://greensock.com/draggable/ (inertia/snap == premium)
 
 ## Ads
 
@@ -630,7 +640,8 @@ Contents
 -   https://formbucket.com/
 -   https://www.typeform.com/
 -   Search engine  
-    https://typesense.org/
+    https://typesense.org/  
+    https://www.raymondcamden.com/2021/06/02/using-lunr-with-eleventy-via-netlify-serverless-functions
 -   Client-side search  
     https://fusejs.io/
 -   Comment system  
@@ -793,6 +804,8 @@ Contents
     https://github.com/robertknight/tex-linebreak
 -   Aligning text vertically based on cap-size  
     https://seek-oss.github.io/capsize/
+-   Fluid text with min() and max()  
+    https://css-tricks.com/simplified-fluid-typography/
 -   Fluid text with clamp()  
     https://fluid-typography.netlify.app/
 
@@ -844,6 +857,8 @@ Contents
     https://tumult.com/hype/
 -   Skeleton-based animation  
     https://github.com/yemount/pose-animator
+-   Library for manipulating and animating SVG  
+    https://svgjs.dev/
 
 ## Animation Libraries
 
@@ -851,7 +866,6 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   https://popmotion.io/
 -   http://animejs.com/documentation
--   Green Sock - GSAP
 -   http://thednp.github.io/kute.js/
 -   http://velocityjs.org/
 -   http://paperjs.org/examples/
@@ -866,6 +880,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://jeremyckahn.github.io/rekapi/doc/index.html
 -   Spline (3D design tool for the web)  
     https://spline.design/
+-   Green Sock - GSAP  
+    https://greensock.com/
 
 ## Animated Effects
 
@@ -879,6 +895,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://github.com/gmrchk/swup
 -   Gradient animation  
     https://sarcadass.github.io/granim.js/examples.html
+-   Glitter texture  
+    https://wh0.github.io/2021/04/25/glitter.html
 -   Grain texture  
     https://css-tricks.com/snippets/css/animated-grainy-texture/
 -   Particles  
@@ -921,6 +939,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 ## JavaScript Scrolling Libraries
 
 -   https://bestofjs.org/projects?tags=scrolling
+-   https://greensock.com/scrolltrigger/
 
 ## Styling Scrollbars
 
@@ -951,26 +970,27 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://tympanus.net/codrops/2019/07/23/smooth-scrolling-image-effects/
 -   on mouse move: https://tympanus.net/codrops/2020/06/10/how-to-create-a-motion-hover-effect-for-a-background-image-grid
 -   https://locomotivemtl.github.io/locomotive-scroll/
+-   https://greensock.com/scrolltrigger/
 
 ## Triggers
 
 -   Scrollspy: https://github.com/cferdinandi/gumshoe
--   http://imakewebthings.com/waypoints/guides/getting-started/
--   https://pudding.cool/process/introducing-scrollama/
 -   https://github.com/stutrek/scrollMonitor
 -   https://terwanerik.github.io/ScrollTrigger/
 -   http://developer.telerik.com/featured/guide-browser-scroll-animations/ _(2016)_
+-   Get notified when a DOM element enters or exits the viewport  
+    https://camwiegert.github.io/in-view/ _(2016)_
 -   http://mynameismatthieu.com/WOW/
 -   https://github.com/jlmakes/scrollreveal
 -   https://q42.github.io/delighters/
 -   https://michalsnik.github.io/aos/
 -   https://blog.logrocket.com/how-to-do-scroll-linked-animations
--   https://scrollmagic.io/
 -   https://dollarshaveclub.github.io/scrolldir/
 -   https://github.com/mciastek/sal
 -   https://github.com/alexfoxy/lax.js/
--   Get notified when a DOM element enters or exits the viewport  
-    https://camwiegert.github.io/in-view/
+-   https://pudding.cool/process/introducing-scrollama/
+-   https://github.com/russellgoldenberg/enter-view
+-   https://scrollmagic.io/
 
 ## Smooth Scroll
 
