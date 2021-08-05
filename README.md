@@ -362,7 +362,8 @@ Contents
 -   Hero images / overlays  
     https://css-tricks.com/positioning-overlay-content-with-css-grid/
 -   The 100vh bug (full height)  
-    https://css-tricks.com/the-trick-to-viewport-units-on-mobile/
+    https://css-tricks.com/the-trick-to-viewport-units-on-mobile/  
+    https://cloudfour.com/thinks/a-bashful-button-worth-8-million/
 
 ## Tooltips
 
@@ -481,10 +482,10 @@ Contents
     https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native  
     https://github.com/alterebro/accessible-image-lazy-load  
     https://deanhume.com/Home/BlogPost/lazy-loading-images-using-intersection-observer/10163  
-    https://github.com/ApoorvSaxena/lozad.js  
     https://github.com/aFarkas/lazysizes (used by kinfolk and ignant)  
     https://robinosborne.co.uk/2016/05/16/lazy-loading-images-dont-rely-on-javascript/  
     http://blog.dynamicdrive.com/5-brilliant-ways-to-lazy-load-images-for-faster-page-loads  
+    https://github.com/ApoorvSaxena/lozad.js  
     https://css-tricks.com/preventing-content-reflow-from-lazy-loaded-images/
 -   Are images loaded?  
     http://imagesloaded.desandro.com/
@@ -582,6 +583,8 @@ Contents
     https://codepen.io/tigt/post/improving-svg-rendering-performance
 -   Convert SVG to canvas  
     https://github.com/fabricjs/fabric.js
+-   Convert absolute clippaths to relative  
+    https://yoksel.github.io/relative-clip-path/
 
 ## Image Galleries
 
@@ -641,7 +644,8 @@ Contents
 -   https://www.typeform.com/
 -   Search engine  
     https://typesense.org/  
-    https://www.raymondcamden.com/2021/06/02/using-lunr-with-eleventy-via-netlify-serverless-functions
+    https://www.raymondcamden.com/2021/06/02/using-lunr-with-eleventy-via-netlify-serverless-functions  
+    https://www.npmjs.com/package/flexsearch
 -   Client-side search  
     https://fusejs.io/
 -   Comment system  
@@ -804,6 +808,8 @@ Contents
     https://github.com/robertknight/tex-linebreak
 -   Aligning text vertically based on cap-size  
     https://seek-oss.github.io/capsize/
+-   Aligning text vertically using a pseudo-element  
+    https://ishadeed.com/article/button-label-alignment/
 -   Fluid text with min() and max()  
     https://css-tricks.com/simplified-fluid-typography/
 -   Fluid text with clamp()  
@@ -1093,7 +1099,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://mermaid-js.github.io/mermaid/#/
 -   Flowchart, sitemap drawing tools  
     https://asciiflow.com/  
-    https://www.gloomaps.com/
+    https://www.gloomaps.com/  
+    https://app.diagrams.net (previously, draw.io)
 
 ## Infographics Inspiration
 
