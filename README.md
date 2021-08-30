@@ -1056,6 +1056,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://radar.io/
 -   Custom vector map tiles with OSM data  
     https://protomaps.com/blog/new-way-to-make-maps/
+-   Custom static maps using python + OSM data  
+    https://github.com/marceloprates/prettymaps
 
 ## Panning/Zooming
 
@@ -1199,6 +1201,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://nickbentley.games/2018/06/08/organicity-in-abstract-strategy-games/
 -   Event queues  
     https://gameprogrammingpatterns.com/event-queue.html
+-   https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds
 
 # Writing
 
@@ -1477,3 +1480,4 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   http://www.williamcronon.net/researching/landscapes.htm
 -   https://faroutride.com/internet-vanlife/
 -   https://faroutride.com/free-campsites/
+-   https://www.numbeo.com/cost-of-living/
