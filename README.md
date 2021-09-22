@@ -412,9 +412,11 @@ Contents
     https://webdesign.tutsplus.com/tutorials/how-to-use-css-shapes-in-your-web-design--cms-27498
 -   Background gradients  
     http://evankarageorgos.github.io/hue/grid.html  
-    https://www.gradientmagic.com/
+    https://www.gradientmagic.com/  
+    https://css-tricks.com/grainy-gradients/
 -   Smooth box-shadows  
-    https://tobiasahlin.com/blog/layered-smooth-box-shadows/
+    https://tobiasahlin.com/blog/layered-smooth-box-shadows/  
+    https://www.joshwcomeau.com/css/designing-shadows/
 -   Segment effect on background image  
     http://tympanus.net/Development/SegmentEffect/index.html
 -   Blurry background  
@@ -888,6 +890,10 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://spline.design/
 -   Green Sock - GSAP  
     https://greensock.com/
+-   Motion One  
+    https://motion.dev/
+-   Theatre.js  
+    https://docs.theatrejs.com/
 
 ## Animated Effects
 
@@ -977,6 +983,9 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   on mouse move: https://tympanus.net/codrops/2020/06/10/how-to-create-a-motion-hover-effect-for-a-background-image-grid
 -   https://locomotivemtl.github.io/locomotive-scroll/
 -   https://greensock.com/scrolltrigger/
+-   ScrollTimeline polyfill  
+    https://github.com/flackr/scroll-timeline  
+    demos: https://codepen.io/collection/DkdaQK?cursor=ZD0xJm89MSZwPTEmdj0z
 
 ## Triggers
 
@@ -1195,6 +1204,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://news.ycombinator.com/item?id=26181863  
     https://www.inklestudios.com/ink/web-tutorial/  
     http://inform7.com/
+-   https://ledoux.itch.io/bitsy
 
 ## Game Design
 
