@@ -413,7 +413,8 @@ Contents
 -   Background gradients  
     http://evankarageorgos.github.io/hue/grid.html  
     https://www.gradientmagic.com/  
-    https://css-tricks.com/grainy-gradients/
+    https://css-tricks.com/grainy-gradients/  
+    https://animated-gradient-background-generator.netlify.app/
 -   Smooth box-shadows  
     https://tobiasahlin.com/blog/layered-smooth-box-shadows/  
     https://www.joshwcomeau.com/css/designing-shadows/
@@ -476,6 +477,8 @@ Contents
     http://thenewcode.com/1065/Better-Image-Borders-with-Blend-Modes
 -   SVG filter effects  
     https://tympanus.net/codrops/2019/02/05/svg-filter-effects-duotone-images-with-fecomponenttransfer/
+-   Dithering to save file size  
+    https://endtimes.dev/why-you-should-dither-images/
 
 ## Image Loading
 
@@ -514,10 +517,10 @@ Contents
 ## Icons
 
 -   Icon libraries  
-    https://thenounproject.com/  
-    https://feathericons.com/  
-    https://simpleicons.org/  
-    https://github.com/edent/SuperTinyIcons/
+    Large DB, mostly w/ attribution licenses: https://thenounproject.com/  
+    Only brand logos: https://simpleicons.org/  
+    Mainly brand logos: https://github.com/edent/SuperTinyIcons/  
+    Wide variety, open source: https://feathericons.com/
 -   Favicons  
     https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df  
     https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs
@@ -1026,7 +1029,10 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://pudding.cool/process/introducing-scrollama/
 -   https://tympanus.net/Development/StorytellingMap/
 -   Video scrubbing  
-    https://blog.koenvangilst.nl/tutorial-svelte-scroll-video/
+    https://blog.koenvangilst.nl/tutorial-svelte-scroll-video/  
+    https://www.ghosh.dev/posts/playing-with-video-scrubbing-animations-on-the-web/
+-   Examples  
+    https://www.sbs.com.au/theboat/
 
 # Data / Viz
 
