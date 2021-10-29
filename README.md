@@ -161,6 +161,7 @@ Contents
     -   [Category Theory](#category-theory)
     -   [Algorithms](#algorithms)
     -   [Computer Science](#computer-science)
+    -   [Android / iOS Dev](#android-/-ios-dev)
 
 -   [More to Learn](#more-to-learn)
 
@@ -471,8 +472,11 @@ Contents
 
 ## Images
 
--   Removing background behind a human subject (automatic tool)  
-    https://www.remove.bg/
+-   Removing background (automatic tool)  
+    https://www.remove.bg/  
+    https://clipdrop.co/
+-   Erase objects from photo (online tool)  
+    https://cleanup.pictures/
 -   Image borders with blend modes  
     http://thenewcode.com/1065/Better-Image-Borders-with-Blend-Modes
 -   SVG filter effects  
@@ -523,7 +527,8 @@ Contents
     Wide variety, open source: https://feathericons.com/
 -   Favicons  
     https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df  
-    https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs
+    https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs  
+    https://iconmap.io/blog
 -   Icon editor (vector)  
     https://100r.co/site/dotgrid.html
 
@@ -612,6 +617,8 @@ Contents
     https://github.com/nextapps-de/spotlight  
     https://github.com/dimsemenov/photoswipe  
     https://github.com/deoostfreese/Parvus (nice zoom animation; small footprint)
+-   Dynamically measure width of sidebar (prevent body shift when toggling)  
+    https://stackoverflow.com/a/57748743/3976381
 
 ## Sticky
 
@@ -986,6 +993,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   on mouse move: https://tympanus.net/codrops/2020/06/10/how-to-create-a-motion-hover-effect-for-a-background-image-grid
 -   https://locomotivemtl.github.io/locomotive-scroll/
 -   https://greensock.com/scrolltrigger/
+-   3D parallax  
+    https://atroposjs.com/
 -   ScrollTimeline polyfill  
     https://github.com/flackr/scroll-timeline  
     demos: https://codepen.io/collection/DkdaQK?cursor=ZD0xJm89MSZwPTEmdj0z
@@ -1073,12 +1082,17 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://protomaps.com/blog/new-way-to-make-maps/
 -   Custom static maps using python + OSM data  
     https://github.com/marceloprates/prettymaps
+-   Base maps for visualization  
+    https://carto.com/pricing/
+-   Web map performance  
+    https://bdon.org/blog/web-map-performance/
 
 ## Panning/Zooming
 
 -   https://github.com/anvaka/panzoom
 -   https://github.com/bumbu/svg-pan-zoom
 -   https://svelte-parts.surge.sh/zoom/
+-   Zooming high-res photos: https://openseadragon.github.io/
 
 ## Arrows
 
@@ -1117,7 +1131,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Flowchart, sitemap drawing tools  
     https://asciiflow.com/  
     https://www.gloomaps.com/  
-    https://app.diagrams.net (previously, draw.io)
+    https://app.diagrams.net (previously, draw.io)  
+    https://excalidraw.com/
 
 ## Infographics Inspiration
 
@@ -1209,8 +1224,10 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Text adventures  
     https://news.ycombinator.com/item?id=26181863  
     https://www.inklestudios.com/ink/web-tutorial/  
-    http://inform7.com/
+    http://inform7.com/  
+    https://adventuron.io/
 -   https://ledoux.itch.io/bitsy
+-   https://github.com/KilledByAPixel/LittleJS
 
 ## Game Design
 
@@ -1239,7 +1256,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 ## Analytics
 
--   https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/
+-   https://philipwalton.com/articles/the-ga-setup-i-use-on-every-site-i-build/
 -   https://github.com/thenextweb/gtm
 -   https://www.theatlantic.com/technology/archive/2012/10/dark-social-we-have-the-whole-history-of-the-web-wrong/263523/
 -   https://github.com/googleanalytics/autotrack
@@ -1264,6 +1281,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 ## Stock Imagery
 
 -   https://css-tricks.com/unconventional-stock-image-sources/
+-   Placeholder illustrations: https://doodleipsum.com/
 
 # Productivity
 
@@ -1442,6 +1460,12 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://news.ycombinator.com/item?id=26806554
 -   Idempotence  
     https://news.ycombinator.com/item?id=26726449
+
+## Android / iOS Dev
+
+-   https://webtoapp.design/
+-   https://blog.pwabuilder.com/posts/publish-your-pwa-to-the-ios-app-store/
+-   https://capacitorjs.com/
 
 # More to Learn
 
