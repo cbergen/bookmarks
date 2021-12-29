@@ -236,8 +236,6 @@ Contents
 -   Strive for pure functions  
     https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch8.html#old-mcdonald-had-effects  
     http://adamjonrichardson.com/2013/09/07/fall-through-functions/
--   Clean code  
-    https://devinduct.com/blogpost/22/javascript-clean-code-best-practices
 -   Manipulating the DOM (code snippets)  
     https://htmldom.dev/
 -   Strong types in javascript  
@@ -377,6 +375,7 @@ Contents
 -   https://github.com/Simonwep/nanopop
 -   Lots of options:  
     https://github.com/popperjs/popper-core
+-   https://www.floating-ui.com/
 
 ## Accordion
 
@@ -419,6 +418,7 @@ Contents
 -   Smooth box-shadows  
     https://tobiasahlin.com/blog/layered-smooth-box-shadows/  
     https://www.joshwcomeau.com/css/designing-shadows/
+    Generator tool: https://www.joshwcomeau.com/shadow-palette/
 -   Segment effect on background image  
     http://tympanus.net/Development/SegmentEffect/index.html
 -   Blurry background  
@@ -595,6 +595,8 @@ Contents
     https://github.com/fabricjs/fabric.js
 -   Convert absolute clippaths to relative  
     https://yoksel.github.io/relative-clip-path/
+-   Convert font text to SVG path  
+    https://danmarshall.github.io/google-font-to-svg-path/
 
 ## Image Galleries
 
@@ -751,7 +753,8 @@ Contents
 -   laravel/valet
 -   Nix  
     https://nix.dev/  
-    https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html
+    https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html  
+    https://ianthehenry.com/posts/how-to-learn-nix/
 
 ## CLI App Dev
 
@@ -975,7 +978,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   One page scroll sections  
     https://alvarotrigo.com/fullPage/
 -   Smooth out mousewheel...  
-    https://stackoverflow.com/a/47206289/3976381
+    https://stackoverflow.com/a/47206289/3976381  
+    https://github.com/idiotWu/smooth-scrollbar
 -   https://locomotivemtl.github.io/locomotive-scroll/
 -   Horizontal scrolling  
     https://css-tricks.com/pure-css-horizontal-scrolling/
@@ -1086,6 +1090,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://carto.com/pricing/
 -   Web map performance  
     https://bdon.org/blog/web-map-performance/
+-   World map generator (PNG, SVG)  
+    https://www.worldmapgenerator.com/
 
 ## Panning/Zooming
 
@@ -1123,6 +1129,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 ## Three.js
 
 -   https://threejsfundamentals.org/threejs/lessons/threejs-fundamentals.html
+-   With Svelte  
+    https://svelte-cubed.vercel.app/
 
 ## Charts
 
@@ -1138,6 +1146,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   Military Infographics  
     https://medium.com/message/amazing-military-infographics-1ba60bdc32e7
+-   Timelines  
+    http://histography.io/
 
 # Design / UX
 
@@ -1161,6 +1171,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://axesslab.com/accessibility-according-to-pwd/
 -   https://axesslab.com/alt-texts/
 -   https://github.com/jackdomleo7/Checka11y.css
+-   https://www.smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/
 
 ## Usability
 
@@ -1228,6 +1239,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://adventuron.io/
 -   https://ledoux.itch.io/bitsy
 -   https://github.com/KilledByAPixel/LittleJS
+-   https://kaboomjs.com/
 
 ## Game Design
 
@@ -1277,6 +1289,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 ## Forum Software
 
 -   https://tribe.so/
+-   https://flarum.org/
 
 ## Stock Imagery
 
@@ -1302,6 +1315,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://docparser.com/
 -   https://zapier.com/
 -   https://textexpander.com/
+-   Automate a browser, scrape data on a schedule
+    https://browserflow.app/
 
 ## Outsourcing
 
@@ -1387,6 +1402,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   Custom home router  
     https://killtacknine.com/building-an-ubuntu-16-04-router-part-1-network-interfaces/
+-   Learning DNS  
+    https://messwithdns.net/
 
 ## Anonymity
 
@@ -1457,9 +1474,14 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://www.martinfowler.com/articles/refactoring-pipelines.html
 -   Prolog  
     https://www.matchilling.com/introduction-to-logic-programming-with-prolog/
-    https://news.ycombinator.com/item?id=26806554
+    https://news.ycombinator.com/item?id=26806554  
+    http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt
 -   Idempotence  
     https://news.ycombinator.com/item?id=26726449
+-   Data-Oriented Design  
+    https://dataorienteddesign.com/dodbook/dodmain.html
+-   Learn X in Y Minutes  
+    https://learnxinyminutes.com/
 
 ## Android / iOS Dev
 
