@@ -34,6 +34,7 @@ Contents
     -   [Social Media Links](#social-media-links)
     -   [Icons](#icons)
     -   [Animated GIFs](#animated-gifs)
+    -   [Audio](#audio)
     -   [Video](#video)
     -   [SVG](#svg)
     -   [Image Galleries](#image-galleries)
@@ -47,6 +48,7 @@ Contents
 
     -   [PaaS](#paas)
     -   [Authentication](#authentication)
+    -   [Websockets](#websockets)
     -   [AWS](#aws)
     -   [Nginx](#nginx)
     -   [Databases](#databases)
@@ -500,6 +502,8 @@ Contents
     http://imagesloaded.desandro.com/
 -   SRCSET vs SIZES  
     https://css-tricks.com/sometimes-sizes-is-quite-important/
+-   PICTURE + SRCSET for fullscreen, large images
+    https://engineering.q42.nl/optimizing-full-screen-images/
 -   Placeholders while page loads  
     https://manu.ninja/dominant-colors-for-lazy-loading-images  
     http://daverupert.com/2015/12/intrinsic-placeholders-with-picture/  
@@ -513,10 +517,13 @@ Contents
     https://github.com/technopagan/sqip
 -   Optimization tips  
     https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/#assets-optimizations
+    https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element
 
 ## Social Media Links
 
 -   https://news.ycombinator.com/item?id=12209595
+-   Sharer.js  
+    https://ellisonleao.github.io/sharer.js/
 
 ## Icons
 
@@ -524,7 +531,9 @@ Contents
     Large DB, mostly w/ attribution licenses: https://thenounproject.com/  
     Only brand logos: https://simpleicons.org/  
     Mainly brand logos: https://github.com/edent/SuperTinyIcons/  
-    Wide variety, open source: https://feathericons.com/
+    Wide variety, open source: https://feathericons.com/  
+    https://www.svgrepo.com/  
+    https://www.snoweb-svg.com/en/
 -   Favicons  
     https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df  
     https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs  
@@ -548,6 +557,13 @@ Contents
 ## Keyboard Events
 
 -   https://jamiebuilds.github.io/tinykeys/
+
+## Audio
+
+-   Dynamic waveforms with audio player
+    https://wavesurfer-js.org/
+-   Peaks.js: Browser-based audio waveform visualisation
+    https://waveform.prototyping.bbc.co.uk/
 
 ## Video
 
@@ -597,6 +613,8 @@ Contents
     https://yoksel.github.io/relative-clip-path/
 -   Convert font text to SVG path  
     https://danmarshall.github.io/google-font-to-svg-path/
+-   Path editor
+    https://github.com/Yqnn/svg-path-editor
 
 ## Image Galleries
 
@@ -611,6 +629,7 @@ Contents
 -   Basic functionality only: https://davidcetinkaya.github.io/embla-carousel/
 -   https://swiperjs.com/
 -   https://naver.github.io/egjs-flicking/
+-   https://www.smashingmagazine.com/2022/04/designing-better-carousel-ux/
 
 ## Modals
 
@@ -668,6 +687,10 @@ Contents
 ## Authentication
 
 -   https://blog.plan99.net/building-account-systems-f790bf5fdbe0
+
+## Websockets
+
+-   https://ably.com/blog/introducing-the-websocket-handbook
 
 ## AWS
 
@@ -735,6 +758,8 @@ Contents
 
 -   PHP type-hinting  
     http://torquemag.io/2016/09/wordpress-developers-guide-type-hinting/
+-   PHP The Right Way
+    https://phptherightway.com/
 
 ## Deployment
 
@@ -983,6 +1008,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://locomotivemtl.github.io/locomotive-scroll/
 -   Horizontal scrolling  
     https://css-tricks.com/pure-css-horizontal-scrolling/
+-   Reverse-scrolling columns
+    https://css-tricks.com/css-scroll-timeline-reverse-motion-preference/
 
 ## Parallax
 
@@ -1068,6 +1095,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://xem.github.io/articles/webgl-guide.html
 -   Hand gestures (minority report?)  
     https://handsfree.js.org/
+-   Options for delivering 3D on the web  
+    https://rd.nytimes.com/projects/delivering-3d-scenes-to-the-web
 
 ## Maps
 
@@ -1092,6 +1121,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://bdon.org/blog/web-map-performance/
 -   World map generator (PNG, SVG)  
     https://www.worldmapgenerator.com/
+-   MapLibre GL (webgl js library)  
+    https://maplibre.org/projects/
 
 ## Panning/Zooming
 
@@ -1120,6 +1151,10 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://pbeshai.github.io/tidy/
 -   Timelines  
     https://github.com/visjs/vis-timeline
+-   Two.js (like three.js but 2D)  
+    https://two.js.org/
+-   Apache ECharts
+    https://echarts.apache.org/en/index.html
 
 ## Data APIs
 
@@ -1147,7 +1182,9 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Military Infographics  
     https://medium.com/message/amazing-military-infographics-1ba60bdc32e7
 -   Timelines  
-    http://histography.io/
+    http://histography.io/  
+    Book: Cartographies of time: a history of the timeline
+    Demo using GSAP: https://tympanus.net/codrops/2022/01/03/building-a-scrollable-and-draggable-timeline-with-gsap/
 
 # Design / UX
 
@@ -1186,9 +1223,9 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Why performance matters  
     http://digiday.com/publishers/gq-com-cut-page-load-time-80-percent/
 -   Carousels  
-    https://www.smashingmagazine.com/2016/07/ten-requirements-for-making-home-page-carousels-work-for-end-users/  
     https://www.dgtlnk.com/blog/website-carousel/  
-    http://shouldiuseacarousel.com/
+    http://shouldiuseacarousel.com/  
+    https://www.smashingmagazine.com/2022/04/designing-better-carousel-ux/
 -   Website as a city  
     https://interconnected.org/home/2021/03/31/maps
 
@@ -1239,7 +1276,9 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://adventuron.io/
 -   https://ledoux.itch.io/bitsy
 -   https://github.com/KilledByAPixel/LittleJS
--   https://kaboomjs.com/
+-   Kaboom  
+    https://kaboomjs.com/  
+    https://makejsgames.com/
 
 ## Game Design
 
@@ -1247,6 +1286,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Event queues  
     https://gameprogrammingpatterns.com/event-queue.html
 -   https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds
+-   https://www.edx.org/course/cs50s-introduction-to-game-development
 
 # Writing
 
@@ -1295,6 +1335,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   https://css-tricks.com/unconventional-stock-image-sources/
 -   Placeholder illustrations: https://doodleipsum.com/
+-   https://skuawk.com/
 
 # Productivity
 
@@ -1482,6 +1523,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://dataorienteddesign.com/dodbook/dodmain.html
 -   Learn X in Y Minutes  
     https://learnxinyminutes.com/
+-   Algorithms, physics, processing  
+    https://natureofcode.com/book/
 
 ## Android / iOS Dev
 
@@ -1497,6 +1540,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   Learning synths  
     https://news.ycombinator.com/item?id=20272346
+    Build your own synth: https://noisecraft.app
 -   Drum machines  
     https://news.ycombinator.com/item?id=25103111
 -   Modular synth simulator  
@@ -1517,6 +1561,12 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://news.ycombinator.com/item?id=22382337
 -   "Math for Video Games" (course)  
     https://www.gamedev.tv/courses/enrolled/1303526
+-   Statistics  
+    https://github.com/rmcelreath/stat_rethinking_2022
+-   Higher Math
+    https://venhance.github.io/napkin/Napkin.pdf
+-   Discussion, learning math
+    https://news.ycombinator.com/item?id=30591177
 
 ## Misc.
 
@@ -1529,9 +1579,12 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Mind hacking  
     http://www.ludism.org/mentat/HomePage
 -   Spanish  
-    https://www.languagetransfer.org/complete-spanish
+    https://www.languagetransfer.org/complete-spanish  
+    https://news.ycombinator.com/item?id=30467597
 -   Craftsmanship  
     https://simplifier.neocities.org/
+-   Drawing
+    https://drawabox.com/
 
 # Travel
 
