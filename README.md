@@ -376,8 +376,7 @@ Contents
     http://codepen.io/fabriziocuscini/pen/kkaaOv
 -   https://github.com/Simonwep/nanopop
 -   Lots of options:  
-    https://github.com/popperjs/popper-core
--   https://www.floating-ui.com/
+    https://www.floating-ui.com/
 
 ## Accordion
 
@@ -524,6 +523,8 @@ Contents
 -   https://news.ycombinator.com/item?id=12209595
 -   Sharer.js  
     https://ellisonleao.github.io/sharer.js/
+-   Minimal social markup
+    https://meiert.com/en/blog/minimal-social-markup/
 
 ## Icons
 
@@ -534,6 +535,9 @@ Contents
     Wide variety, open source: https://feathericons.com/  
     https://www.svgrepo.com/  
     https://www.snoweb-svg.com/en/
+    https://humbleicons.com/
+    https://heroicons.com/
+    https://iconsax.io/
 -   Favicons  
     https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df  
     https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs  
@@ -564,6 +568,10 @@ Contents
     https://wavesurfer-js.org/
 -   Peaks.js: Browser-based audio waveform visualisation
     https://waveform.prototyping.bbc.co.uk/
+-   Audio visualization with ffmpeg
+    https://lukaprincic.si/development-log/ffmpeg-audio-visualization-tricks
+-   JS audio visualizer
+    https://github.com/foobar404/Wave.js/
 
 ## Video
 
@@ -596,6 +604,7 @@ Contents
 -   SVG head declarations  
     https://medium.com/@pnowelldesign/stuff-at-the-top-of-an-svg-f3ad198eb54e
 -   SVG path editor  
+    https://github.com/Yqnn/svg-path-editor
     https://yqnn.github.io/svg-path-editor/
 -   Icon editor (vector)  
     https://100r.co/site/dotgrid.html
@@ -613,8 +622,6 @@ Contents
     https://yoksel.github.io/relative-clip-path/
 -   Convert font text to SVG path  
     https://danmarshall.github.io/google-font-to-svg-path/
--   Path editor
-    https://github.com/Yqnn/svg-path-editor
 
 ## Image Galleries
 
@@ -780,6 +787,7 @@ Contents
     https://nix.dev/  
     https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html  
     https://ianthehenry.com/posts/how-to-learn-nix/
+    https://mat.services/posts/static-site-with-nix-and-caddy/
 
 ## CLI App Dev
 
@@ -863,6 +871,8 @@ Contents
 -   Drop caps  
     https://product.voxmedia.com/2019/6/17/18524029/the-ballad-of-drop-caps-and-design-systems
 -   https://gankra.github.io/blah/text-hates-you/
+-   What can my font do?
+    https://wakamaifondue.com/
 
 ## Font Design
 
@@ -957,6 +967,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://3d-book-css.netlify.app/
 -   Custom cursor  
     https://medium.com/14islands/developing-a-performant-custom-cursor-89f1688a02eb
+    https://github.com/tholman/cursor-effects
+    https://tympanus.net/codrops/2022/08/24/custom-svg-cursors-with-an-interactive-emitter-effect/
 
 ## Text Effects
 
@@ -979,6 +991,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Marquee  
     https://github.com/codrops/CSSMarqueeMenu/  
     https://github.com/mattiacoll/vanilla-marquee/
+    https://ryanmulligan.dev/blog/css-marquee/
 -   Animating real underlines  
     https://css-irl.info/animating-underlines/
 
@@ -1305,6 +1318,9 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 ## SEO
 
 -   https://www.johnwdefeo.com/articles/seo-for-engineers
+-   Broken Link Scanners
+    https://github.com/lycheeverse/lychee
+    https://github.com/raviqqe/muffet
 
 ## Analytics
 
@@ -1375,6 +1391,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://training.kalzumeus.com/newsletters/archive/consulting_1
 -   https://www.gkogan.co/blog/how-i-learned-to-get-consulting-leads/
 -   https://tomcritchlow.com/2019/04/04/the-strategic-independent/
+-   http://unixwiz.net/techtips/be-consultant.html
 
 ## Money
 
@@ -1393,6 +1410,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   AI-generated domains (inspiration)  
     https://www.domainsfortherestofus.com/
+-   Find a good available .com domain
+    https://sive.rs/com
 
 ## Strategy
 
@@ -1541,16 +1560,29 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Learning synths  
     https://news.ycombinator.com/item?id=20272346
     Build your own synth: https://noisecraft.app
+    https://vcvrack.com/
+    https://learningsynths.ableton.com/
+    https://www.soundonsound.com/series/synth-secrets-sound-sound
+    https://support.apple.com/en-ca/guide/logicpro/lgsidcd8a98b/mac
+    https://www.synthesizer-cookbook.com/
+    https://news.ycombinator.com/item?id=27822489
 -   Drum machines  
     https://news.ycombinator.com/item?id=25103111
 -   Modular synth simulator  
     https://vcvrack.com/
+    https://patch.cab/ (built with Svelte)
 -   Genre guide  
     https://everynoise.com/
 -   Guide to electronic music  
     https://music.ishkur.com/
 -   Awesome list: audio programming (DSP)  
     https://github.com/olilarkin/awesome-musicdsp
+-   Web Audio API
+    https://developer.mozilla.org/en-US/docs/Web/API/OscillatorNode
+    https://tonejs.github.io/
+-   Audio programming
+    https://supercollider.github.io/
+    https://cabbageaudio.com/
 
 ## Math
 
