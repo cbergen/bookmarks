@@ -59,7 +59,6 @@ Contents
     -   [Deployment](#deployment)
     -   [Local Dev Server](#local-dev-server)
     -   [CLI App Dev](#cli-app-dev)
-    -   [API Dev](#api-dev)
     -   [Security](#security)
     -   [Privacy](#privacy)
     -   [Caching](#caching)
@@ -236,7 +235,7 @@ Contents
 -   ES6 module syntax, History of modules  
     https://ponyfoo.com/articles/brief-history-of-modularity
 -   Strive for pure functions  
-    https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch8.html#old-mcdonald-had-effects  
+    https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch08.md#old-mcdonald-had-effects  
     http://adamjonrichardson.com/2013/09/07/fall-through-functions/
 -   Manipulating the DOM (code snippets)  
     https://htmldom.dev/
@@ -338,9 +337,6 @@ Contents
     https://gist.github.com/sebastiano-guerriero/9466c6a503cab779118fe932c5fae9d2
 -   https://github.com/almonk/pylon
 -   https://github.com/thoughtbot/neat (uses floats but compatible with flexbox)
--   Grid fallbacks  
-    https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks  
-    https://www.chenhuijing.com/blog/basic-grid-with-fallbacks
 -   https://github.com/fortrabbit/teutonic-css/
 -   https://www.smashingmagazine.com/2019/10/editorial-design-patterns-css-grid-subgrid-naming/
 -   Z-index organization  
@@ -446,7 +442,7 @@ Contents
 ## Colour Schemes
 
 -   http://www.vanschneider.com/colors/
--   https://cloudflare.design/color/
+-   https://color.cloudflare.design/
 -   https://www.colorbox.io/
 
 ## Performance
@@ -584,7 +580,7 @@ Contents
     http://thenewcode.com/1136/Fullscreen-Background-Video-with-mix-blend-mode-Overlay-Text
 -   Video players  
     https://github.com/videojs/video.js  
-    https://vime-js.com/  
+    https://vimejs.com/
     https://plyr.io/
 -   Self-hosting video  
     https://news.ycombinator.com/item?id=23894827
@@ -633,7 +629,7 @@ Contents
 -   http://kenwheeler.github.io/slick
 -   http://mediatemple.net/blog/tips/carousels-dont-have-to-be-complicated/
 -   https://github.com/rcbyr/keen-slider
--   Basic functionality only: https://davidcetinkaya.github.io/embla-carousel/
+-   Basic functionality only: https://www.embla-carousel.com/
 -   https://swiperjs.com/
 -   https://naver.github.io/egjs-flicking/
 -   https://www.smashingmagazine.com/2022/04/designing-better-carousel-ux/
@@ -689,7 +685,7 @@ Contents
 -   Client-side search  
     https://fusejs.io/
 -   Comment system  
-    https://docs.coralproject.net/coral/
+    https://docs.coralproject.net/
 
 ## Authentication
 
@@ -720,8 +716,7 @@ Contents
     AWS - https://news.ycombinator.com/item?id=12844173  
     https://poststatus.com/scaling-wp-draft/  
     http://wordpress.stackexchange.com/questions/166448/how-to-optimize-wp-site-for-millions-of-posts  
-    https://thomasgriffin.io/optimize-wordpress-queries/  
-    https://pressjitsu.com/blog/wordpress-sessions-performance/
+    https://thomasgriffin.io/optimize-wordpress-queries/
 -   Remove dangerous buttons from visual editor (WordPress)  
     https://gist.github.com/tommcfarlin/86e4f040bcc641a86f59  
     https://make.wordpress.org/core/2016/08/17/wordpress-4-7-whats-on-your-mind/#comment-30875
@@ -748,7 +743,7 @@ Contents
 -   Self-hosted headless CMS store with API
     -   https://directus.io/
     -   https://strapi.io/
-    -   https://getcockpit.com/documentation/getting-started/requirements
+    -   https://getcockpit.com/documentation/core/quickstart/requirements
     -   https://scotch.io/bar-talk/the-future-of-websites-headless-cmss
     -   CraftCMS - but is costly
 -   Frontity (WordPress backend + React frontend)
@@ -792,10 +787,6 @@ Contents
 ## CLI App Dev
 
 -   https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46
-
-## API Dev
-
--   https://fly.io/articles/pragmatic-api-versioning/
 
 ## Security
 
@@ -901,7 +892,7 @@ Contents
 -   http://lmgonzalves.github.io/segment/
 -   https://css-tricks.com/many-tools-shape-morphing/
 -   Drawing stroke  
-    http://thednp.github.io/kute.js/svg.html  
+    https://thednp.github.io/kute.js/
     https://css-tricks.com/libraries-for-svg-drawing-animations/
 -   Preparing SVG data for animating  
     https://notoriousb1t.github.io/polymorph-docs/about.html  
@@ -922,7 +913,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   https://popmotion.io/
 -   http://animejs.com/documentation
--   http://thednp.github.io/kute.js/
+-   https://thednp.github.io/kute.js/
 -   http://velocityjs.org/
 -   http://paperjs.org/examples/
 -   https://daneden.github.io/animate.css/
@@ -979,7 +970,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Typing animation  
     https://lumin.rocks/  
     https://edernclemente.com/plugin/typelighterjs  
-    http://thednp.github.io/kute.js/text.html  
+    https://thednp.github.io/kute.js/textProperties.html
     https://css-tricks.com/snippets/css/typewriter-effect/  
     https://github.com/photopea/Typr.js
 -   Read and write OpenType fonts using JavaScript  
@@ -1056,7 +1047,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://q42.github.io/delighters/
 -   https://michalsnik.github.io/aos/
 -   https://blog.logrocket.com/how-to-do-scroll-linked-animations
--   https://dollarshaveclub.github.io/scrolldir/
+-   https://github.com/yowainwright/scrolldir
 -   https://github.com/mciastek/sal
 -   https://github.com/alexfoxy/lax.js/
 -   https://pudding.cool/process/introducing-scrollama/
@@ -1107,7 +1098,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Guide to WebGL  
     https://xem.github.io/articles/webgl-guide.html
 -   Hand gestures (minority report?)  
-    https://handsfree.js.org/
+    https://www.npmjs.com/package/handsfree
 -   Options for delivering 3D on the web  
     https://rd.nytimes.com/projects/delivering-3d-scenes-to-the-web
 
@@ -1260,8 +1251,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 ## Newsletters
 
--   http://slicejack.github.io/bojler/
--   https://nerds.inn.org/2017/06/06/email-is-a-sacred-space-designing-for-newsletters-at-sndclt-2017/
+-   https://bojler.slicejack.com/
 -   https://www.caniemail.com/
 -   MJML builder  
     https://grapesjs.com/
@@ -1319,7 +1309,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   https://www.johnwdefeo.com/articles/seo-for-engineers
 -   Broken Link Scanners
-    https://github.com/lycheeverse/lychee
+    https://github.com/lycheeverse/lychee (does not crawl)
     https://github.com/raviqqe/muffet
 
 ## Analytics
@@ -1387,7 +1377,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 ## Consulting
 
 -   https://news.ycombinator.com/item?id=19876825
--   https://kirubakaran.com/blog/consulting-outline/
+-   https://archive.ph/sa9xL (kirubakaran.com/blog/consulting-outline)
 -   https://training.kalzumeus.com/newsletters/archive/consulting_1
 -   https://www.gkogan.co/blog/how-i-learned-to-get-consulting-leads/
 -   https://tomcritchlow.com/2019/04/04/the-strategic-independent/
@@ -1395,7 +1385,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 ## Money
 
--   https://commoncog.com/blog/cash-flow-games/
+-   https://commoncog.com/cash-flow-games/
 
 ## Selling a Business
 
@@ -1408,8 +1398,6 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 ## Domains
 
--   AI-generated domains (inspiration)  
-    https://www.domainsfortherestofus.com/
 -   Find a good available .com domain
     https://sive.rs/com
 
@@ -1460,8 +1448,6 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 ## Networking
 
--   Custom home router  
-    https://killtacknine.com/building-an-ubuntu-16-04-router-part-1-network-interfaces/
 -   Learning DNS  
     https://messwithdns.net/
 
