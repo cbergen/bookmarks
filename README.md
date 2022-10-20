@@ -62,6 +62,7 @@ Contents
     -   [Security](#security)
     -   [Privacy](#privacy)
     -   [Caching](#caching)
+    -   [Server Management](#server-management)
 
 -   [Fonts / Typography](#fonts-/-typography)
 
@@ -110,6 +111,7 @@ Contents
     -   [Process](#process)
     -   [Accessibility](#accessibility)
     -   [Usability](#usability)
+    -   [Sustainability](#sustainability)
     -   [Graphic Design](#graphic-design)
     -   [Hamburger Menus](#hamburger-menus)
     -   [Newsletters](#newsletters)
@@ -244,6 +246,7 @@ Contents
     http://elm-lang.org/
     https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/  
     https://spin.atomicobject.com/2021/05/11/3-useful-typescript-patterns/
+    https://type-level-typescript.com/
 -   Polyfills  
     https://github.com/zloirock/core-js  
     https://philipwalton.com/articles/loading-polyfills-only-when-needed/
@@ -259,6 +262,8 @@ Contents
     https://reflect.run/
 -   Headless browser automation  
     https://github.com/microsoft/playwright-test
+-   Svelte testing
+    https://davipon.hashnode.dev/test-svelte-component-using-vitest-playwright
 
 ## JavaScript Frameworks
 
@@ -271,6 +276,7 @@ Contents
     https://www.robinwieruch.de/learn-react-before-using-redux/  
     http://lucasmreis.github.io/blog/simple-react-patterns/  
     https://nextjs.org/
+    https://www.patterns.dev/
 -   Svelte  
     https://svelte.dev/
 -   Solid: A declarative, efficient, and flexible JavaScript library for building user interfaces.  
@@ -507,7 +513,7 @@ Contents
     https://github.com/woltapp/blurhash
 -   Lazy-loading iframes  
     https://github.com/viktorbergehall/lazyframe/blob/master/src/lazyframe.js
--   Convert bitmap to SVG  
+-   Convert bitmap to SVG (trace)
     https://github.com/fogleman/primitive  
     https://github.com/technopagan/sqip
 -   Optimization tips  
@@ -529,11 +535,13 @@ Contents
     Only brand logos: https://simpleicons.org/  
     Mainly brand logos: https://github.com/edent/SuperTinyIcons/  
     Wide variety, open source: https://feathericons.com/  
+    Fork of feather icons with larger variety: https://lucide.dev/
     https://www.svgrepo.com/  
     https://www.snoweb-svg.com/en/
     https://humbleicons.com/
     https://heroicons.com/
     https://iconsax.io/
+    Free, open source: https://remixicon.com/
 -   Favicons  
     https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df  
     https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs  
@@ -811,6 +819,11 @@ Contents
 -   Service Worker caching  
     https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34#.7thi109fw
 
+## Server Management
+
+-   Load testing
+    https://www.marcobehler.com/guides/load-testing
+
 # Fonts / Typography
 
 **[`^ back to top ^`](#)**
@@ -831,6 +844,8 @@ Contents
 ## Font Stacks
 
 -   https://meowni.ca/font-style-matcher/
+-   Fallback Font Generator (to reduce Reduce Cumulative Layout Shift)
+    https://screenspan.net/fallback
 
 ## Aligning Text
 
@@ -839,6 +854,7 @@ Contents
     https://codyhouse.co/blog/post/vertical-text-alignment-in-buttons-and-inputs
 -   Resize text to fit container  
     https://github.com/rikschennink/fitty
+    For svelte: https://github.com/leveluptuts/svelte-fit
 -   Line-height + calc()  
     https://hugogiraudel.com/2020/05/18/using-calc-to-figure-out-optimal-line-height/
 -   Making line-height act like leading  
@@ -853,6 +869,7 @@ Contents
     https://css-tricks.com/simplified-fluid-typography/
 -   Fluid text with clamp()  
     https://fluid-typography.netlify.app/
+    https://www.fluid-type-scale.com/
 
 ## Typography
 
@@ -1233,6 +1250,10 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Website as a city  
     https://interconnected.org/home/2021/03/31/maps
 
+## Sustainability
+
+-   https://www.smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/
+
 ## Hamburger Menus
 
 -   https://allenpike.com/2019/navigation-should-be-boring
@@ -1241,6 +1262,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   http://www.lukew.com/ff/entry.asp?1945
 -   Simple off-canvas navigation menus  
     https://github.com/toomuchdesign/offside
+-   Accessible website navigation
+    https://web.dev/website-navigation/
 
 ## Process
 
@@ -1267,7 +1290,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 ## Game Frameworks
 
--   http://boardgame.io/#/
+-   https://boardgame.io/
 -   https://news.ycombinator.com/item?id=17477484
 -   https://ctjs.rocks/
 -   https://phaser.io/
@@ -1277,8 +1300,10 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://www.inklestudios.com/ink/web-tutorial/  
     http://inform7.com/  
     https://adventuron.io/
+    https://twinery.org/
 -   https://ledoux.itch.io/bitsy
 -   https://github.com/KilledByAPixel/LittleJS
+-   https://melonjs.org/
 -   Kaboom  
     https://kaboomjs.com/  
     https://makejsgames.com/
