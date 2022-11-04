@@ -358,6 +358,8 @@ Contents
 -   Responsive layouts without mediaqueries  
     https://www.sitepoint.com/responsive-css-patterns-without-media-queries  
     https://smolcss.dev/
+    Intrinsic sizes for all gaps: https://youtu.be/8slZJrTK3nE?t=1268
+    https://ishadeed.com/article/use-cases-css-comparison-functions
 -   Detect elements resize  
     https://github.com/wnr/element-resize-detector
 -   Resizable columns (gutter handle)  
@@ -1473,6 +1475,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 ## Networking
 
+-   HTTP
+    https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for
 -   Learning DNS  
     https://messwithdns.net/
 
@@ -1502,6 +1506,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://carltheperson.com/posts/10-things-linux
 -   Zsh tricks  
     https://news.ycombinator.com/item?id=26175894
+-   Shell scripting best practices
+    https://sharats.me/posts/shell-script-best-practices/
 
 ## Vim
 
@@ -1628,6 +1634,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://simplifier.neocities.org/
 -   Drawing
     https://drawabox.com/
+-   Directory of educational YouTube channels (all topics)
+    https://limnology.co/en/languages/en/keywords
 
 # Travel
 
