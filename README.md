@@ -182,8 +182,8 @@ Contents
 
 ### Learning Front-end
 
--   Front End Developer Handbook 2019 _(no 2020 version)_  
-    https://frontendmasters.com/books/front-end-handbook/2019/
+-   Front-end Developer Learning Roadmap
+    https://frontendmasters.com/guides/learning-roadmap/
 -   Roadmap to becoming a web developer (flowcharts suggesting what to learn)  
     https://github.com/kamranahmedse/developer-roadmap
 
@@ -202,8 +202,6 @@ Contents
 
 -   JS to keep window width, height, and scroll variables up to date  
     https://github.com/engageinteractive/front-end-baseplate
--   Project boilerplate (last updated 2015)  
-    https://github.com/filamentgroup/Southstreet
 -   Resizable components  
     https://css-tricks.com/building-resizeable-components-relative-css-units/
 -   CSS-only UI components  
@@ -231,6 +229,8 @@ Contents
     https://plainjs.com/
 -   Functional Programming Jargon  
     https://github.com/hemanth/functional-programming-jargon
+-   Functional programming
+    https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/
 -   Babel w/ webpack to convert modern ES6 syntax  
     https://github.com/philipwalton/webpack-esnext-boilerplate  
     https://chrisbateman.github.io/webpack-visualizer/
@@ -264,6 +264,9 @@ Contents
     https://github.com/microsoft/playwright-test
 -   Svelte testing
     https://davipon.hashnode.dev/test-svelte-component-using-vitest-playwright
+-   Log file analysis
+    https://news.ycombinator.com/item?id=33971432
+    Log file viewer: https://lnav.org/
 
 ## JavaScript Frameworks
 
@@ -339,6 +342,8 @@ Contents
 ## Layout and Alignment
 
 -   https://every-layout.dev/
+-   Guide to flexbox
+    https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
 -   Alignment using minimal flex styles  
     https://gist.github.com/sebastiano-guerriero/9466c6a503cab779118fe932c5fae9d2
 -   https://github.com/almonk/pylon
@@ -436,6 +441,8 @@ Contents
     https://letsbuildui.dev/articles/css-text-effects-five-minimal-examples
 -   Knockout text on scroll  
     https://css-tricks.com/going-from-solid-to-knockout-text-on-scroll/
+-   3D tilt animation when hovering over element
+    https://github.com/micku7zu/vanilla-tilt.js
 
 ## Foreground/Background Colours
 
@@ -596,6 +603,8 @@ Contents
     https://news.ycombinator.com/item?id=23894827
 -   Fast YouTube embed widget  
     https://github.com/paulirish/lite-youtube-embed
+-   FFmpeg
+    https://img.ly/blog/ultimate-guide-to-ffmpeg/
 
 ## SVG
 
@@ -635,14 +644,16 @@ Contents
 
 ## Sliders/Carousels
 
--   http://flickity.metafizzy.co/ (consider Swiper instead; support has dropped off)
--   http://kenwheeler.github.io/slick
+-   Oldies, support has dropped off since their heyday
+    http://flickity.metafizzy.co/
+    http://kenwheeler.github.io/slick
 -   http://mediatemple.net/blog/tips/carousels-dont-have-to-be-complicated/
--   https://github.com/rcbyr/keen-slider
 -   Basic functionality only: https://www.embla-carousel.com/
--   https://swiperjs.com/
 -   https://naver.github.io/egjs-flicking/
 -   https://www.smashingmagazine.com/2022/04/designing-better-carousel-ux/
+-   https://github.com/rcbyr/keen-slider
+-   https://swiperjs.com/
+-   Accessible, modern (circa 2022): https://splidejs.com/
 
 ## Modals
 
@@ -952,6 +963,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://motion.dev/
 -   Theatre.js  
     https://docs.theatrejs.com/
+-   Scene.js
+    https://daybrush.com/scenejs
 
 ## Animated Effects
 
@@ -1146,6 +1159,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://www.worldmapgenerator.com/
 -   MapLibre GL (webgl js library)  
     https://maplibre.org/projects/
+-   Utility library for geojson analysis (calculating distances, smoothing polygons, etc)
+    https://turfjs.org
 
 ## Panning/Zooming
 
@@ -1199,6 +1214,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://www.gloomaps.com/  
     https://app.diagrams.net (previously, draw.io)  
     https://excalidraw.com/
+-   Infinite whiteboard library
+    https://www.tldraw.dev/
 
 ## Infographics Inspiration
 
@@ -1325,6 +1342,10 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/
 -   https://robertheaton.com/2018/12/06/a-blogging-style-guide/
 -   https://www.thisworddoesnotexist.com/
+-   How to write fiction
+    https://lithub.com/ian-fleming-explains-how-to-write-a-thriller/
+    https://www.theguardian.com/books/2000/oct/01/stephenking.sciencefictionfantasyandhorror
+    https://www.theatlantic.com/magazine/archive/1944/12/the-simple-art-of-murder/656179/
 -   Evergreen, link-bait content  
     https://www.swyx.io/friendcatchers/
 
@@ -1369,6 +1390,9 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://css-tricks.com/unconventional-stock-image-sources/
 -   Placeholder illustrations: https://doodleipsum.com/
 -   https://skuawk.com/
+-   https://wordpress.org/openverse/
+-   Public domain art from museums:
+    https://standardebooks.org/manual/1.7.0/10-art-and-images#10.3.3.7.4
 
 # Productivity
 
@@ -1427,6 +1451,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   Find a good available .com domain
     https://sive.rs/com
+    https://smartynames.com/
 
 ## Strategy
 
@@ -1491,9 +1516,11 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 ## Linux / Command Line
 
+-   Command line guide
+    https://github.com/jlevy/the-art-of-command-line
+-   https://www.lucasfcosta.com/2019/02/10/terminal-guide-2019.html
 -   Vim + many other common command line tools  
     https://sanctum.geek.nz/arabesque/series/unix-as-ide/
--   https://www.lucasfcosta.com/2019/02/10/terminal-guide-2019.html
 -   Linux tools/tips  
     https://news.ycombinator.com/item?id=23229241
 -   Mouseless dev environment book  
@@ -1539,6 +1566,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   The Missing Semester of Your CS Education  
     https://missing.csail.mit.edu/
 -   https://www.edx.org/course/cs50s-introduction-to-computer-science
+-   Intro: https://thecomputersciencebook.com/book/
 -   https://www.coursera.org/courses?query=google
 -   CS degree in 3 months  
     https://news.ycombinator.com/item?id=25467900
@@ -1647,3 +1675,4 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://faroutride.com/internet-vanlife/
 -   https://faroutride.com/free-campsites/
 -   https://www.numbeo.com/cost-of-living/
+-   https://www.kalzumeus.com/japan-recommendations/
