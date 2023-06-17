@@ -210,6 +210,8 @@ Contents
     https://1loc.dev/
 -   Functions to transform arrays and objects (tidy.js)  
     https://pbeshai.github.io/tidy/
+-   Pure Javascript UI widgets
+    https://vanillalist.top/
 
 ## JavaScript
 
@@ -263,10 +265,15 @@ Contents
 -   Headless browser automation  
     https://github.com/microsoft/playwright-test
 -   Svelte testing
+    https://dev.to/d_ir/introduction-4cep
     https://davipon.hashnode.dev/test-svelte-component-using-vitest-playwright
+    playwright + sveltekit: https://www.youtube.com/watch?v=Me6qEMzmlaU
 -   Log file analysis
     https://news.ycombinator.com/item?id=33971432
     Log file viewer: https://lnav.org/
+-   Front-end testing best practices
+    https://infinum.com/handbook/frontend/react/testing-best-practices
+    https://sveltesociety.dev/recipes/testing-and-debugging/unit-testing-svelte-component
 
 ## JavaScript Frameworks
 
@@ -322,6 +329,7 @@ Contents
 
 -   JavaScript upload widget  
     https://uppy.io/
+    https://pqina.nl/filepond/
 -   Styling Select input element  
     https://24ways.org/2019/making-a-better-custom-select-element/
 -   https://baymard.com/blog/inline-form-validation
@@ -374,6 +382,8 @@ Contents
 -   The 100vh bug (full height)  
     https://css-tricks.com/the-trick-to-viewport-units-on-mobile/  
     https://cloudfour.com/thinks/a-bashful-button-worth-8-million/
+-   Masonry layout (javascript)
+    http://callmecavs.com/bricks.js/
 
 ## Tooltips
 
@@ -425,6 +435,7 @@ Contents
     https://www.gradientmagic.com/  
     https://css-tricks.com/grainy-gradients/  
     https://animated-gradient-background-generator.netlify.app/
+    https://sarcadass.github.io/granim.js
 -   Smooth box-shadows  
     https://tobiasahlin.com/blog/layered-smooth-box-shadows/  
     https://www.joshwcomeau.com/css/designing-shadows/
@@ -459,6 +470,7 @@ Contents
 -   http://www.vanschneider.com/colors/
 -   https://color.cloudflare.design/
 -   https://www.colorbox.io/
+-   https://meodai.github.io/poline/
 
 ## Performance
 
@@ -549,14 +561,18 @@ Contents
     https://www.snoweb-svg.com/en/
     https://humbleicons.com/
     https://heroicons.com/
+    https://atlasicons.vectopus.com/
     https://iconsax.io/
+    https://iconoir.com/
     Free, open source: https://remixicon.com/
 -   Favicons  
     https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df  
-    https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs  
+    https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs
     https://iconmap.io/blog
 -   Icon editor (vector)  
     https://100r.co/site/dotgrid.html
+-   SVG star shapes
+    https://shapes.framer.website
 
 ## Animated GIFs
 
@@ -736,8 +752,7 @@ Contents
 -   WordPress performance  
     AWS - https://news.ycombinator.com/item?id=12844173  
     https://poststatus.com/scaling-wp-draft/  
-    http://wordpress.stackexchange.com/questions/166448/how-to-optimize-wp-site-for-millions-of-posts  
-    https://thomasgriffin.io/optimize-wordpress-queries/
+    http://wordpress.stackexchange.com/questions/166448/how-to-optimize-wp-site-for-millions-of-posts
 -   Remove dangerous buttons from visual editor (WordPress)  
     https://gist.github.com/tommcfarlin/86e4f040bcc641a86f59  
     https://make.wordpress.org/core/2016/08/17/wordpress-4-7-whats-on-your-mind/#comment-30875
@@ -859,6 +874,8 @@ Contents
 -   https://meowni.ca/font-style-matcher/
 -   Fallback Font Generator (to reduce Reduce Cumulative Layout Shift)
     https://screenspan.net/fallback
+-   System fonts in many styles
+    https://modernfontstacks.com/
 
 ## Aligning Text
 
@@ -894,6 +911,8 @@ Contents
 -   https://gankra.github.io/blah/text-hates-you/
 -   What can my font do?
     https://wakamaifondue.com/
+-   Font outlines, stroked text
+    https://blog.logrocket.com/create-beautiful-stroked-text-css/
 
 ## Font Design
 
@@ -904,6 +923,17 @@ Contents
 # Animation
 
 **[`^ back to top ^`](#)**
+
+## Animation Software
+
+-   Web-based app (like flash; export to video; non-interactive?)
+    https://animate.construct.net/
+-   Rive (interactive)
+    https://rive.app/
+-   SVGator
+    https://www.svgator.com/
+-   Artboard Studio
+    https://artboard.studio/
 
 ## Motion Design
 
@@ -976,6 +1006,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://codepen.io/Trinca/pen/dWejMB
 -   Page transitions  
     https://github.com/gmrchk/swup
+    https://barba.js.org/
 -   Gradient animation  
     https://sarcadass.github.io/granim.js/examples.html
 -   Glitter texture  
@@ -1032,20 +1063,22 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://www.filamentgroup.com/lab/scrollbars/
 -   https://alligator.io/css/css-scrollbars
 -   https://daily-dev-tips.com/posts/styling-scrollbars-with-css/
+-   https://blakewatson.com/journal/neglecting-the-scrollbar-a-costly-trend-in-ui-design/
 
 ## Scroll Jacking
 
 -   https://blogs.windows.com/msedgedev/2017/03/08/scrolling-on-the-web/
 -   One page scroll sections  
     https://alvarotrigo.com/fullPage/
--   Smooth out mousewheel...  
-    https://stackoverflow.com/a/47206289/3976381  
-    https://github.com/idiotWu/smooth-scrollbar
--   https://locomotivemtl.github.io/locomotive-scroll/
 -   Horizontal scrolling  
     https://css-tricks.com/pure-css-horizontal-scrolling/
 -   Reverse-scrolling columns
     https://css-tricks.com/css-scroll-timeline-reverse-motion-preference/
+-   Smooth out mousewheel...  
+    https://stackoverflow.com/a/47206289/3976381  
+    https://github.com/idiotWu/smooth-scrollbar
+    https://locomotivemtl.github.io/locomotive-scroll/
+    https://github.com/studio-freight/lenis
 
 ## Parallax
 
@@ -1249,6 +1282,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://axesslab.com/alt-texts/
 -   https://github.com/jackdomleo7/Checka11y.css
 -   https://www.smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/
+-   https://blakewatson.com/journal/neglecting-the-scrollbar-a-costly-trend-in-ui-design/
 
 ## Usability
 
@@ -1268,6 +1302,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://www.smashingmagazine.com/2022/04/designing-better-carousel-ux/
 -   Website as a city  
     https://interconnected.org/home/2021/03/31/maps
+-   Microcopy
+    https://developer.apple.com/design/human-interface-guidelines/foundations/writing/
 
 ## Sustainability
 
@@ -1283,6 +1319,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://github.com/toomuchdesign/offside
 -   Accessible website navigation
     https://web.dev/website-navigation/
+    https://news.ycombinator.com/item?id=34545943
 
 ## Process
 
@@ -1497,6 +1534,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   Auto-screenshots (create a timelapse of your web dev) + imagick to create gifs  
     https://github.com/typicode/tlapse
+-   Nice looking video of web page interaction (for portfolio or demo)
+    https://screenrun.app/
 
 ## Networking
 
@@ -1568,6 +1607,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://www.edx.org/course/cs50s-introduction-to-computer-science
 -   Intro: https://thecomputersciencebook.com/book/
 -   https://www.coursera.org/courses?query=google
+-   https://functionalcs.github.io/curriculum/
 -   CS degree in 3 months  
     https://news.ycombinator.com/item?id=25467900
 -   https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414
@@ -1577,6 +1617,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://fullstackmark.com/post/11/better-software-design-with-clean-architecture
 -   https://martinfowler.com/bliki/BoundedContext.html
 -   https://www.martinfowler.com/articles/refactoring-pipelines.html
+-   Book: How to Design Programs
+    https://htdp.org/
 -   Prolog  
     https://www.matchilling.com/introduction-to-logic-programming-with-prolog/
     https://news.ycombinator.com/item?id=26806554  
@@ -1589,6 +1631,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://learnxinyminutes.com/
 -   Algorithms, physics, processing  
     https://natureofcode.com/book/
+-   Open Source Society University
+    https://github.com/ossu/computer-science
 
 ## Android / iOS Dev
 
@@ -1653,6 +1697,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://github.com/danistefanovic/build-your-own-x
 -   Electronics  
     https://www.allaboutcircuits.com/textbook/
+    https://news.ycombinator.com/item?id=35437065
+    https://ultimateelectronicsbook.com/
 -   Mind hacking  
     http://www.ludism.org/mentat/HomePage
 -   Spanish  
