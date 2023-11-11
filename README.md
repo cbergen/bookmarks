@@ -136,6 +136,7 @@ Contents
 
     -   [Automation](#automation)
     -   [Outsourcing](#outsourcing)
+    -   [Research](#research)
 
 -   [Business](#business)
 
@@ -440,6 +441,7 @@ Contents
     https://tobiasahlin.com/blog/layered-smooth-box-shadows/  
     https://www.joshwcomeau.com/css/designing-shadows/
     Generator tool: https://www.joshwcomeau.com/shadow-palette/
+    https://smoothshadows.com/
 -   Segment effect on background image  
     http://tympanus.net/Development/SegmentEffect/index.html
 -   Blurry background  
@@ -564,6 +566,7 @@ Contents
     https://atlasicons.vectopus.com/
     https://iconsax.io/
     https://iconoir.com/
+    https://flowbite.com/icons/
     Free, open source: https://remixicon.com/
 -   Favicons  
     https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df  
@@ -1258,6 +1261,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     http://histography.io/  
     Book: Cartographies of time: a history of the timeline
     Demo using GSAP: https://tympanus.net/codrops/2022/01/03/building-a-scrollable-and-draggable-timeline-with-gsap/
+    https://neal.fun/internet-artifacts/
 
 # Design / UX
 
@@ -1304,6 +1308,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://interconnected.org/home/2021/03/31/maps
 -   Microcopy
     https://developer.apple.com/design/human-interface-guidelines/foundations/writing/
+-   Flashing or autoplay animation annoys people
+    https://astralcodexten.substack.com/p/every-flashing-element-on-your-site
 
 ## Sustainability
 
@@ -1334,6 +1340,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://www.caniemail.com/
 -   MJML builder  
     https://grapesjs.com/
+-   Templates
+    https://github.com/threeheartsdigital/emailoctopus-templates
 
 ## Graphic Design
 
@@ -1360,6 +1368,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://ledoux.itch.io/bitsy
 -   https://github.com/KilledByAPixel/LittleJS
 -   https://melonjs.org/
+-   https://love2d.org/
 -   Kaboom  
     https://kaboomjs.com/  
     https://makejsgames.com/
@@ -1385,6 +1394,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://www.theatlantic.com/magazine/archive/1944/12/the-simple-art-of-murder/656179/
 -   Evergreen, link-bait content  
     https://www.swyx.io/friendcatchers/
+-   Publishing cadence/speed
+    https://www.henrikkarlsson.xyz/p/effort-pieces
 
 # Marketing
 
@@ -1457,6 +1468,11 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   Hire someone for that  
     https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/
+
+## Research
+
+-   Searching the internet
+    https://gwern.net/search
 
 # Business
 
@@ -1570,10 +1586,13 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://click.palletsprojects.com/
 -   Learning Linux  
     https://carltheperson.com/posts/10-things-linux
+    https://www.linuxfromscratch.org/lfs/
 -   Zsh tricks  
     https://news.ycombinator.com/item?id=26175894
 -   Shell scripting best practices
     https://sharats.me/posts/shell-script-best-practices/
+-   Securing a new Linux server
+    https://pboyd.io/posts/securing-a-linux-vm/
 
 ## Vim
 
@@ -1699,6 +1718,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://www.allaboutcircuits.com/textbook/
     https://news.ycombinator.com/item?id=35437065
     https://ultimateelectronicsbook.com/
+    https://invidious.flokinet.to/playlist?list=PL7qUW0KPfsIIOPOKL84wK_Qj9N7gvJX6v
 -   Mind hacking  
     http://www.ludism.org/mentat/HomePage
 -   Spanish  
