@@ -1380,6 +1380,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://gameprogrammingpatterns.com/event-queue.html
 -   https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds
 -   https://www.edx.org/course/cs50s-introduction-to-game-development
+-   Making Small Games
+    https://news.ycombinator.com/item?id=38854596
 
 # Writing
 
@@ -1392,6 +1394,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://lithub.com/ian-fleming-explains-how-to-write-a-thriller/
     https://www.theguardian.com/books/2000/oct/01/stephenking.sciencefictionfantasyandhorror
     https://www.theatlantic.com/magazine/archive/1944/12/the-simple-art-of-murder/656179/
+    https://www.advancedfictionwriting.com/articles/snowflake-method/
 -   Evergreen, link-bait content  
     https://www.swyx.io/friendcatchers/
 -   Publishing cadence/speed
@@ -1552,6 +1555,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://github.com/typicode/tlapse
 -   Nice looking video of web page interaction (for portfolio or demo)
     https://screenrun.app/
+-   Nice backgrounds for displaying screenshots and mockups
+    https://shots.so/
 
 ## Networking
 
@@ -1559,6 +1564,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for
 -   Learning DNS  
     https://messwithdns.net/
+-   TCP/IP
+    https://how-did-i-get-here.net/
 
 ## Anonymity
 
@@ -1658,6 +1665,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://webtoapp.design/
 -   https://blog.pwabuilder.com/posts/publish-your-pwa-to-the-ios-app-store/
 -   https://capacitorjs.com/
+-   https://whatpwacando.today/
 
 # More to Learn
 
