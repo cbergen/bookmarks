@@ -105,7 +105,7 @@ Contents
     -   [Charts](#charts)
     -   [Infographics Inspiration](#infographics-inspiration)
 
--   [Design / UX](#design-/-ux)
+-   [Design / UX](#design--ux)
 
     -   [Awesome Lists](#awesome-lists)
     -   [Process](#process)
@@ -130,7 +130,7 @@ Contents
     -   [Marketing Checklists](#marketing-checklists)
     -   [Pitching](#pitching)
     -   [Forum Software](#forum-software)
-    -   [Stock Images](#stock-images)
+    -   [Stock Imagery](#stock-imagery)
 
 -   [Productivity](#productivity)
 
@@ -554,6 +554,7 @@ Contents
 ## Icons
 
 -   Icon libraries  
+    Huge library of libraries: https://icones.js.org/
     Large DB, mostly w/ attribution licenses: https://thenounproject.com/  
     Only brand logos: https://simpleicons.org/  
     Mainly brand logos: https://github.com/edent/SuperTinyIcons/  
@@ -896,6 +897,7 @@ Contents
     https://github.com/robertknight/tex-linebreak
 -   Aligning text vertically based on cap-size  
     https://seek-oss.github.io/capsize/
+    https://tonsky.me/blog/centering/
 -   Aligning text vertically using a pseudo-element  
     https://ishadeed.com/article/button-label-alignment/
 -   Fluid text with min() and max()  
@@ -1049,8 +1051,11 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://github.com/codrops/CSSMarqueeMenu/  
     https://github.com/mattiacoll/vanilla-marquee/
     https://ryanmulligan.dev/blog/css-marquee/
+    https://www.smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/
 -   Animating real underlines  
     https://css-irl.info/animating-underlines/
+-   Squiggly
+    https://codepen.io/team/keyframers/pen/mGEepQ
 
 # Scrolling
 
@@ -1310,6 +1315,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://developer.apple.com/design/human-interface-guidelines/foundations/writing/
 -   Flashing or autoplay animation annoys people
     https://astralcodexten.substack.com/p/every-flashing-element-on-your-site
+-   Forms
+    https://adamjones.me/blog/dont-use-contact-forms/
 
 ## Sustainability
 
@@ -1440,7 +1447,6 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   https://css-tricks.com/unconventional-stock-image-sources/
 -   Placeholder illustrations: https://doodleipsum.com/
--   https://skuawk.com/
 -   https://wordpress.org/openverse/
 -   Public domain art from museums:
     https://standardebooks.org/manual/1.7.0/10-art-and-images#10.3.3.7.4
@@ -1656,7 +1662,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Learn X in Y Minutes  
     https://learnxinyminutes.com/
 -   Algorithms, physics, processing  
-    https://natureofcode.com/book/
+    https://natureofcode.com/
 -   Open Source Society University
     https://github.com/ossu/computer-science
 
@@ -1729,13 +1735,15 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://invidious.flokinet.to/playlist?list=PL7qUW0KPfsIIOPOKL84wK_Qj9N7gvJX6v
 -   Mind hacking  
     http://www.ludism.org/mentat/HomePage
--   Spanish  
+-   Languages  
     https://www.languagetransfer.org/complete-spanish  
     https://news.ycombinator.com/item?id=30467597
+    https://news.ycombinator.com/item?id=40336607
 -   Craftsmanship  
     https://simplifier.neocities.org/
 -   Drawing
     https://drawabox.com/
+    https://news.ycombinator.com/item?id=39986687
 -   Directory of educational YouTube channels (all topics)
     https://limnology.co/en/languages/en/keywords
 
