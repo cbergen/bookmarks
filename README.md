@@ -53,6 +53,7 @@ Contents
     -   [Nginx](#nginx)
     -   [Databases](#databases)
     -   [WordPress](#wordpress)
+    -   [User Agents](#user-agents)
     -   [Form processing](#form-processing)
     -   [Static Sites / Headless CMS](#static-sites-/-headless-cms)
     -   [PHP](#php)
@@ -94,14 +95,14 @@ Contents
 
 -   [Data / Viz](#data-/-viz)
 
-    -   [d3.js](#d3)
+    -   [d3.js](#d3js)
     -   [3-D / Immersive](#3-d-/-immersive)
     -   [Maps](#maps)
     -   [Panning/Zooming](#panning/zooming)
     -   [Arrows](#arrows)
     -   [Data Viz Libraries](#data-viz-libraries)
     -   [Data APIs](#data-apis)
-    -   [Three.js](#three.js)
+    -   [Three.js](#threejs)
     -   [Charts](#charts)
     -   [Infographics Inspiration](#infographics-inspiration)
 
@@ -144,7 +145,6 @@ Contents
     -   [Money](#money)
     -   [Selling a Business](#selling-a-business)
     -   [Domains](#domains)
-    -   [Competition](#competition)
     -   [Strategy](#strategy)
     -   [Bootstrapping](#bootstrapping)
     -   [Project Management](#project-management)
@@ -198,17 +198,15 @@ Contents
     https://www.sarasoueidan.com/blog/style-settings-with-css-variables/
 -   Enforce CSS best practices  
     https://stylelint.io/
+-   Use attributes, not classes
+    https://www.keithcirkel.co.uk/css-classes-considered-harmful/
 
 ## Snippets, Boilerplate, Components
 
--   JS to keep window width, height, and scroll variables up to date  
-    https://github.com/engageinteractive/front-end-baseplate
 -   Resizable components  
     https://css-tricks.com/building-resizeable-components-relative-css-units/
 -   CSS-only UI components  
     http://youmightnotneedjs.com/
--   1-line JS snippets  
-    https://1loc.dev/
 -   Functions to transform arrays and objects (tidy.js)  
     https://pbeshai.github.io/tidy/
 -   Pure Javascript UI widgets
@@ -242,8 +240,8 @@ Contents
 -   Strive for pure functions  
     https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch08.md#old-mcdonald-had-effects  
     http://adamjonrichardson.com/2013/09/07/fall-through-functions/
--   Manipulating the DOM (code snippets)  
-    https://htmldom.dev/
+-   Dates in javascript
+    https://docs.timetime.in/blog/js-dates-finally-fixed/
 -   Strong types in javascript  
     https://www.typescriptlang.org/docs/tutorial.html  
     http://elm-lang.org/
@@ -325,6 +323,8 @@ Contents
     https://www.sarasoueidan.com/blog/horizontal-rules/
 -   HEAD elements  
     https://htmlhead.dev/
+-   HTML for beginners
+    https://htmlforpeople.com/
 
 ## Forms
 
@@ -347,6 +347,8 @@ Contents
     https://moderncss.dev/custom-css-styles-for-form-inputs-and-textareas/
 -   Survey.js (javascript library)  
     https://surveyjs.io/
+-   Autocomplete fields
+    https://github.com/alphagov/accessible-autocomplete
 
 ## Layout and Alignment
 
@@ -711,6 +713,12 @@ Contents
     https://github.com/piku/piku
 -   https://caprover.com/
 
+## User Agents
+
+-   https://github.com/matomo-org/device-detector
+-   Includes bot detection
+    https://github.com/donatj/PhpUserAgent
+
 ## Form Processing
 
 -   https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server
@@ -918,6 +926,8 @@ Contents
     https://wakamaifondue.com/
 -   Font outlines, stroked text
     https://blog.logrocket.com/create-beautiful-stroked-text-css/
+-   CSS reset with a focus on typography and open type features
+    https://github.com/clagnut/TODS
 
 ## Font Design
 
@@ -951,6 +961,8 @@ Contents
 -   Smooth css animations  
     https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.p29f8cj0b
 -   https://medium.com/samsung-internet-dev/animating-dom-changes-33b031927e96
+-   Fastdom for reducing layout thrashing
+    https://github.com/wilsonpage/fastdom
 
 ## Animating SVG
 
@@ -1159,6 +1171,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   https://wattenberger.com/blog/d3
 -   https://observablehq.com/@mitvis/introduction-to-d3
+-   https://www.d3indepth.com/
 
 ## 3-D / Immersive
 
@@ -1181,7 +1194,9 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Shopping Mall map  
     https://codecanyon.net/item/mapplic-custom-interactive-map-wordpress-plugin/6800158
 -   Alternatives to Google Maps  
-    https://news.ycombinator.com/item?id=23722133
+    2020: https://news.ycombinator.com/item?id=23722133
+    2024: https://news.ycombinator.com/item?id=41635592 (OpenFreeMap)
+    2024: https://versatiles.org/
 -   3D elevation maps (w/ tooltips)  
     https://github.com/felixpalmer/procedural-gl-js
 -   Dungeon map doodler  
@@ -1239,6 +1254,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   Weather  
     https://openweathermap.org/
+-   List of free public APIs
+    https://github.com/public-apis/public-apis
 
 ## Three.js
 
@@ -1317,6 +1334,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://astralcodexten.substack.com/p/every-flashing-element-on-your-site
 -   Forms
     https://adamjones.me/blog/dont-use-contact-forms/
+-   Scroll
+    https://dontfuckwithscroll.com/
 
 ## Sustainability
 
@@ -1340,6 +1359,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://methods.18f.gov/
 -   https://alistapart.com/article/practical-design-discovery
 -   https://medium.freecodecamp.com/no-budget-no-excuse-heres-a-practical-guide-to-ux-on-the-cheap-9605c77ef55b
+-   https://hbr.org/2008/05/the-customer-centered-innovation-map
 
 ## Newsletters
 
@@ -1349,11 +1369,15 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://grapesjs.com/
 -   Templates
     https://github.com/threeheartsdigital/emailoctopus-templates
+-   HTML email builder tool
+    https://designer.sendune.com/
 
 ## Graphic Design
 
 -   Little UI Details  
     https://mobile.twitter.com/i/moments/880688233641848832
+-   Index of Aesthetics
+    https://cari.institute/aesthetics
 
 # Game Dev
 
@@ -1376,9 +1400,10 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://github.com/KilledByAPixel/LittleJS
 -   https://melonjs.org/
 -   https://love2d.org/
--   Kaboom  
-    https://kaboomjs.com/  
-    https://makejsgames.com/
+-   Roguelike JS
+    https://ondras.github.io/rot.js/hp/
+-   Kaplay  
+    https://kaplayjs.com/
 
 ## Game Design
 
@@ -1386,7 +1411,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Event queues  
     https://gameprogrammingpatterns.com/event-queue.html
 -   https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds
--   https://www.edx.org/course/cs50s-introduction-to-game-development
+-   https://www.edx.org/learn/game-design
 -   Making Small Games
     https://news.ycombinator.com/item?id=38854596
 
@@ -1417,6 +1442,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Broken Link Scanners
     https://github.com/lycheeverse/lychee (does not crawl)
     https://github.com/raviqqe/muffet
+-   Keyword research: https://withtelescope.com/
 
 ## Analytics
 
@@ -1504,11 +1530,6 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   https://www.indiehackers.com/@tylertringas/selling-my-bootstrapped-saas-business-26c8406e1d
 
-## Competition
-
--   All domains owned by a single person  
-    https://dnstrails.com/#/
-
 ## Domains
 
 -   Find a good available .com domain
@@ -1568,6 +1589,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   HTTP
     https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for
+    https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https
 -   Learning DNS  
     https://messwithdns.net/
 -   TCP/IP
@@ -1586,7 +1608,9 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   Command line guide
     https://github.com/jlevy/the-art-of-command-line
--   https://www.lucasfcosta.com/2019/02/10/terminal-guide-2019.html
+    https://www.lucasfcosta.com/2019/02/10/terminal-guide-2019.html
+-   Macos bash commands
+    https://ss64.com/mac/index.html
 -   Vim + many other common command line tools  
     https://sanctum.geek.nz/arabesque/series/unix-as-ide/
 -   Linux tools/tips  
@@ -1595,6 +1619,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://themouseless.dev/
 -   Bash scripting  
     https://betterdev.blog/minimal-safe-bash-script-template/
+    https://github.com/bobbyiliev/introduction-to-bash-scripting
 -   Python framework for building command-line tools  
     https://click.palletsprojects.com/
 -   Learning Linux  
@@ -1682,6 +1707,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Learning synths  
     https://news.ycombinator.com/item?id=20272346
     Build your own synth: https://noisecraft.app
+    https://musicfromouterspace.com/
     https://vcvrack.com/
     https://learningsynths.ableton.com/
     https://www.soundonsound.com/series/synth-secrets-sound-sound
