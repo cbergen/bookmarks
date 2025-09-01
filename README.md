@@ -4,176 +4,150 @@ Techniques, resources, and tools I use often or are on my radar for future proje
 
 Contents
 
--   [Front-end](#front-end)
-
-    -   [Learning Front-end](#learning-front-end)
-    -   [CSS Technique](#css-technique)
-    -   [Snippets, boilerplate, components](#snippets-boilerplate-components)
-    -   [Performance](#performance)
-    -   [JavaScript](#javascript)
-    -   [Debugging / Testing](#debugging-/-testing)
-    -   [JavaScript Frameworks](#javascript-frameworks)
-    -   [Vue](#vue)
-    -   [Svelte](#svelte)
-    -   [Browser Storage](#browser-storage)
-    -   [Mouse/Touch Events](#mouse/touch-events)
-    -   [Keyboard Events](#keyboard-events)
-    -   [Build Tools](#build-tools)
-    -   [HTML](#html)
-    -   [Forms](#forms)
-    -   [Layout and Alignment](#layout-and-alignment)
-    -   [Tooltips](#tooltips)
-    -   [Accordion](#accordion)
-    -   [Multi-level Navigation](#multi-level-navigation)
-    -   [Tables](#tables)
-    -   [Effects](#effects)
-    -   [Foreground/Background Colours](#foreground/background-colours)
-    -   [Colour Schemes](#colour-schemes)
-    -   [Images](#images)
-    -   [Image Loading](#image-loading)
-    -   [Social Media Links](#social-media-links)
-    -   [Icons](#icons)
-    -   [Animated GIFs](#animated-gifs)
-    -   [Audio](#audio)
-    -   [Video](#video)
-    -   [SVG](#svg)
-    -   [Image Galleries](#image-galleries)
-    -   [Sliders/Carousels](#sliders/carousels)
-    -   [Modals](#modals)
-    -   [Sticky](#sticky)
-    -   [Drag and Drop](#drag-and-drop)
-    -   [Ads](#ads)
-
--   [Back-end](#back-end)
-
-    -   [PaaS](#paas)
-    -   [Authentication](#authentication)
-    -   [Websockets](#websockets)
-    -   [AWS](#aws)
-    -   [Nginx](#nginx)
-    -   [Databases](#databases)
-    -   [WordPress](#wordpress)
-    -   [User Agents](#user-agents)
-    -   [Form processing](#form-processing)
-    -   [Static Sites / Headless CMS](#static-sites-/-headless-cms)
-    -   [PHP](#php)
-    -   [Deployment](#deployment)
-    -   [Local Dev Server](#local-dev-server)
-    -   [CLI App Dev](#cli-app-dev)
-    -   [Security](#security)
-    -   [Privacy](#privacy)
-    -   [Caching](#caching)
-    -   [Server Management](#server-management)
-
--   [Fonts / Typography](#fonts-/-typography)
-
-    -   [Web Font Performance](#web-font-performance)
-    -   [Font Stacks](#font-stacks)
-    -   [Aligning Text](#aligning-text)
-    -   [Typography](#typography)
-    -   [Font Design](#font-design)
-
--   [Animation](#animation)
-
-    -   [Motion Design](#motion-design)
-    -   [Animation Performance](#animation-performance)
-    -   [Animating SVG](#animating-svg)
-    -   [Animation Libraries](#animation-libraries)
-    -   [Animated Effects](#animated-effects)
-    -   [Text Effects](#text-effects)
-
--   [Scrolling](#scrolling)
-
-    -   [JavaScript Scrolling Libraries](#javascript-scrolling-libraries)
-    -   [Styling Scrollbars](#styling-scrollbars)
-    -   [Scroll Jacking](#scroll-jacking)
-    -   [Parallax](#parallax)
-    -   [Triggers](#triggers)
-    -   [Smooth Scroll](#smooth-scroll)
-    -   [Scroll Effects](#scroll-effects)
-    -   [Scrollytelling](#scrollytelling)
-
--   [Data / Viz](#data-/-viz)
-
-    -   [d3.js](#d3js)
-    -   [3-D / Immersive](#3-d-/-immersive)
-    -   [Maps](#maps)
-    -   [Panning/Zooming](#panning/zooming)
-    -   [Arrows](#arrows)
-    -   [Data Viz Libraries](#data-viz-libraries)
-    -   [Data APIs](#data-apis)
-    -   [Three.js](#threejs)
-    -   [Charts](#charts)
-    -   [Infographics Inspiration](#infographics-inspiration)
-
--   [Design / UX](#design--ux)
-
-    -   [Awesome Lists](#awesome-lists)
-    -   [Process](#process)
-    -   [Accessibility](#accessibility)
-    -   [Usability](#usability)
-    -   [Sustainability](#sustainability)
-    -   [Graphic Design](#graphic-design)
-    -   [Hamburger Menus](#hamburger-menus)
-    -   [Newsletters](#newsletters)
-
--   [Game Dev](#game-dev)
-
-    -   [Game Frameworks](#game-frameworks)
-    -   [Game Design](#game-design)
-
--   [Writing](#writing)
-
--   [Marketing](#marketing)
-
-    -   [SEO](#seo)
-    -   [Analytics](#analytics)
-    -   [Marketing Checklists](#marketing-checklists)
-    -   [Pitching](#pitching)
-    -   [Forum Software](#forum-software)
-    -   [Stock Imagery](#stock-imagery)
-
--   [Productivity](#productivity)
-
-    -   [Automation](#automation)
-    -   [Outsourcing](#outsourcing)
-    -   [Research](#research)
-
--   [Business](#business)
-
-    -   [Consulting](#consulting)
-    -   [Money](#money)
-    -   [Selling a Business](#selling-a-business)
-    -   [Domains](#domains)
-    -   [Strategy](#strategy)
-    -   [Bootstrapping](#bootstrapping)
-    -   [Project Management](#project-management)
-
--   [Computers](#computers)
-
-    -   [Back-ups](#back-ups)
-    -   [Passwords](#passwords)
-    -   [Screenshots](#screenshots)
-    -   [Networking](#networking)
-    -   [Anonymity](#anonymity)
-
--   [Programming](#programming)
-
-    -   [Linux / Command Line](#linux-/-command-line)
-    -   [Vim](#vim)
-    -   [Machine Learning](#machine-learning)
-    -   [Category Theory](#category-theory)
-    -   [Algorithms](#algorithms)
-    -   [Computer Science](#computer-science)
-    -   [Android / iOS Dev](#android-/-ios-dev)
-
--   [More to Learn](#more-to-learn)
-
-    -   [Music](#music)
-    -   [Math](#math)
-    -   [Misc.](#misc)
-
--   [Travel](#travel)
+- [Bookmarks](#bookmarks)
+  - [Front-end](#front-end)
+    - [Learning Front-end](#learning-front-end)
+  - [CSS Technique](#css-technique)
+  - [Snippets, Boilerplate, Components](#snippets-boilerplate-components)
+  - [JavaScript](#javascript)
+  - [Debugging / Testing](#debugging--testing)
+  - [JavaScript Frameworks](#javascript-frameworks)
+  - [Vue](#vue)
+  - [Svelte](#svelte)
+  - [Build Tools](#build-tools)
+  - [HTML](#html)
+  - [Forms](#forms)
+  - [Layout and Alignment](#layout-and-alignment)
+  - [Tooltips](#tooltips)
+  - [Accordion](#accordion)
+  - [Multi-level Navigation](#multi-level-navigation)
+  - [Tables](#tables)
+  - [Browser Storage](#browser-storage)
+  - [Effects](#effects)
+  - [Foreground/Background Colours](#foregroundbackground-colours)
+  - [Colour Schemes](#colour-schemes)
+  - [Performance](#performance)
+  - [Images](#images)
+  - [Image Loading](#image-loading)
+  - [Social Media Links](#social-media-links)
+  - [Icons](#icons)
+  - [Animated GIFs](#animated-gifs)
+  - [Mouse/Touch Events](#mousetouch-events)
+  - [Keyboard Events](#keyboard-events)
+  - [Audio](#audio)
+  - [Video](#video)
+  - [SVG](#svg)
+  - [Image Galleries](#image-galleries)
+  - [Sliders/Carousels](#sliderscarousels)
+  - [Modals](#modals)
+  - [Sticky](#sticky)
+  - [Drag and Drop](#drag-and-drop)
+  - [Ads](#ads)
+- [Back-end](#back-end)
+  - [PaaS](#paas)
+  - [User Agents](#user-agents)
+  - [Form Processing](#form-processing)
+  - [Authentication](#authentication)
+  - [Websockets](#websockets)
+  - [AWS](#aws)
+  - [Nginx](#nginx)
+  - [Databases](#databases)
+  - [WordPress](#wordpress)
+  - [Static Sites / Headless CMS](#static-sites--headless-cms)
+  - [PHP](#php)
+  - [Deployment](#deployment)
+  - [Local Dev Server](#local-dev-server)
+  - [CLI App Dev](#cli-app-dev)
+  - [Security](#security)
+  - [Privacy](#privacy)
+  - [Caching](#caching)
+  - [Server Management](#server-management)
+- [Fonts / Typography](#fonts--typography)
+  - [Web Font Performance](#web-font-performance)
+  - [Font Stacks](#font-stacks)
+  - [Aligning Text](#aligning-text)
+  - [Typography](#typography)
+  - [Font Design](#font-design)
+- [Animation](#animation)
+  - [Animation Software](#animation-software)
+  - [Motion Design](#motion-design)
+  - [Animation Performance](#animation-performance)
+  - [Animating SVG](#animating-svg)
+  - [Animation Libraries](#animation-libraries)
+  - [Animated Effects](#animated-effects)
+  - [Text Effects](#text-effects)
+- [Scrolling](#scrolling)
+  - [JavaScript Scrolling Libraries](#javascript-scrolling-libraries)
+  - [Styling Scrollbars](#styling-scrollbars)
+  - [Scroll Jacking](#scroll-jacking)
+  - [Parallax](#parallax)
+  - [Triggers](#triggers)
+  - [Smooth Scroll](#smooth-scroll)
+  - [Scroll Effects](#scroll-effects)
+  - [Scrollytelling](#scrollytelling)
+- [Data / Viz](#data--viz)
+  - [d3.js](#d3js)
+  - [3-D / Immersive](#3-d--immersive)
+  - [Maps](#maps)
+  - [Panning/Zooming](#panningzooming)
+  - [Arrows](#arrows)
+  - [Data Viz Libraries](#data-viz-libraries)
+  - [Data APIs](#data-apis)
+  - [Three.js](#threejs)
+  - [Charts](#charts)
+  - [Infographics Inspiration](#infographics-inspiration)
+- [Design / UX](#design--ux)
+  - [Awesome Lists](#awesome-lists)
+  - [Accessibility](#accessibility)
+  - [Usability](#usability)
+  - [Sustainability](#sustainability)
+  - [Hamburger Menus](#hamburger-menus)
+  - [Process](#process)
+  - [Branding](#branding)
+  - [Newsletters](#newsletters)
+  - [Graphic Design](#graphic-design)
+- [Game Dev](#game-dev)
+  - [Game Frameworks](#game-frameworks)
+  - [Game Design](#game-design)
+- [Writing](#writing)
+- [Marketing](#marketing)
+  - [SEO](#seo)
+  - [Analytics](#analytics)
+  - [Marketing Checklists](#marketing-checklists)
+  - [Pitching](#pitching)
+  - [Forum Software](#forum-software)
+  - [Stock Imagery](#stock-imagery)
+- [Productivity](#productivity)
+  - [Automation](#automation)
+  - [Outsourcing](#outsourcing)
+  - [Research](#research)
+- [Business](#business)
+  - [Consulting](#consulting)
+  - [Money](#money)
+  - [Selling a Business](#selling-a-business)
+  - [Domains](#domains)
+  - [Strategy](#strategy)
+  - [Bootstrapping](#bootstrapping)
+  - [Project Management](#project-management)
+- [Computers](#computers)
+  - [Back-ups](#back-ups)
+  - [Passwords](#passwords)
+  - [Screenshots](#screenshots)
+  - [Networking](#networking)
+  - [Anonymity](#anonymity)
+- [Programming](#programming)
+  - [Linux / Command Line](#linux--command-line)
+  - [Vim](#vim)
+  - [Machine Learning](#machine-learning)
+  - [Category Theory](#category-theory)
+  - [Algorithms](#algorithms)
+  - [Computer Science](#computer-science)
+  - [Android / iOS Dev](#android--ios-dev)
+- [More to Learn](#more-to-learn)
+  - [Music](#music)
+  - [Math](#math)
+  - [Misc.](#misc)
+- [Travel](#travel)
 
 ---
 
@@ -325,6 +299,8 @@ Contents
     https://htmlhead.dev/
 -   HTML for beginners
     https://htmlforpeople.com/
+    https://32bit.cafe/cyowebsite/
+    https://web.pixelshannon.com/make/ (includes a link list with more resources at bottom)
 
 ## Forms
 
@@ -570,11 +546,13 @@ Contents
     https://iconsax.io/
     https://iconoir.com/
     https://flowbite.com/icons/
+    https://www.flaticon.com/
     Free, open source: https://remixicon.com/
 -   Favicons  
     https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df  
     https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs
     https://iconmap.io/blog
+    https://favicon.io/favicon-generator/
 -   Icon editor (vector)  
     https://100r.co/site/dotgrid.html
 -   SVG star shapes
@@ -657,6 +635,8 @@ Contents
     https://github.com/fabricjs/fabric.js
 -   Convert absolute clippaths to relative  
     https://yoksel.github.io/relative-clip-path/
+-   Boiling line effect
+    https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters
 -   Convert font text to SVG path  
     https://danmarshall.github.io/google-font-to-svg-path/
 
@@ -727,6 +707,7 @@ Contents
 -   https://formspree.io/
 -   https://formbucket.com/
 -   https://www.typeform.com/
+-   https://liberaforms.org/en
 -   Search engine  
     https://typesense.org/  
     https://www.raymondcamden.com/2021/06/02/using-lunr-with-eleventy-via-netlify-serverless-functions  
@@ -752,6 +733,7 @@ Contents
 ## Nginx
 
 -   https://code.tutsplus.com/tutorials/apache-vs-nginx-pros-cons-for-wordpress--cms-28540
+-   https://www.getpagespeed.com/server-setup/nginx-try_files-is-evil-too
 
 ## Databases
 
@@ -949,6 +931,8 @@ Contents
     https://www.svgator.com/
 -   Artboard Studio
     https://artboard.studio/
+-   SVG animation
+    https://expressive.app/expressive-animator/
 
 ## Motion Design
 
@@ -989,7 +973,6 @@ Contents
 See also: [Data Viz Libraries](#data-viz-libraries)
 
 -   https://popmotion.io/
--   http://animejs.com/documentation
 -   https://thednp.github.io/kute.js/
 -   http://velocityjs.org/
 -   http://paperjs.org/examples/
@@ -1004,14 +987,19 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://jeremyckahn.github.io/rekapi/doc/index.html
 -   Spline (3D design tool for the web)  
     https://spline.design/
--   Green Sock - GSAP  
-    https://greensock.com/
 -   Motion One  
     https://motion.dev/
 -   Theatre.js  
     https://docs.theatrejs.com/
 -   Scene.js
     https://daybrush.com/scenejs
+-   Mattercraft (AR/VR/MR/3D)
+    https://zap.works/mattercraft/
+-   Green Sock - GSAP  
+    https://greensock.com/
+-   Animejs
+    http://animejs.com/
+  
 
 ## Animated Effects
 
@@ -1245,15 +1233,19 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://pbeshai.github.io/tidy/
 -   Timelines  
     https://github.com/visjs/vis-timeline
+    https://markwhen.com/
 -   Two.js (like three.js but 2D)  
     https://two.js.org/
 -   Apache ECharts
     https://echarts.apache.org/en/index.html
+-   JS-optional Svelte charting library
+    https://pancake-charts.surge.sh
 
 ## Data APIs
 
 -   Weather  
     https://openweathermap.org/
+    https://tomorrow.io/
 -   List of free public APIs
     https://github.com/public-apis/public-apis
 
@@ -1272,6 +1264,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://www.gloomaps.com/  
     https://app.diagrams.net (previously, draw.io)  
     https://excalidraw.com/
+-   ASCII art (monodraw and others)
+    https://news.ycombinator.com/item?id=45037904
 -   Infinite whiteboard library
     https://www.tldraw.dev/
 
@@ -1361,6 +1355,11 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://medium.freecodecamp.com/no-budget-no-excuse-heres-a-practical-guide-to-ux-on-the-cheap-9605c77ef55b
 -   https://hbr.org/2008/05/the-customer-centered-innovation-map
 
+## Branding
+
+-   Branding Guidelines Archive
+    https://brandingstyleguides.com/
+
 ## Newsletters
 
 -   https://bojler.slicejack.com/
@@ -1412,6 +1411,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://gameprogrammingpatterns.com/event-queue.html
 -   https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds
 -   https://www.edx.org/learn/game-design
+-   https://news.ycombinator.com/item?id=43169715
 -   Making Small Games
     https://news.ycombinator.com/item?id=38854596
 
@@ -1431,6 +1431,9 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://www.swyx.io/friendcatchers/
 -   Publishing cadence/speed
     https://www.henrikkarlsson.xyz/p/effort-pieces
+-   https://www.henrikkarlsson.xyz/p/start-a-blog
+-   https://grantslatton.com/how-to-design-document
+-   Why and how to write things on the Internet: https://www.benkuhn.net/writing/
 
 # Marketing
 
@@ -1622,6 +1625,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://github.com/bobbyiliev/introduction-to-bash-scripting
 -   Python framework for building command-line tools  
     https://click.palletsprojects.com/
+-   Learning Python
+    https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html
 -   Learning Linux  
     https://carltheperson.com/posts/10-things-linux
     https://www.linuxfromscratch.org/lfs/
@@ -1709,6 +1714,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     Build your own synth: https://noisecraft.app
     https://musicfromouterspace.com/
     https://vcvrack.com/
+    https://msp.ucsd.edu/techniques.htm
     https://learningsynths.ableton.com/
     https://www.soundonsound.com/series/synth-secrets-sound-sound
     https://support.apple.com/en-ca/guide/logicpro/lgsidcd8a98b/mac
@@ -1723,6 +1729,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://everynoise.com/
 -   Guide to electronic music  
     https://music.ishkur.com/
+-   Learn an instrument
+    https://www.irealpro.com
 -   Awesome list: audio programming (DSP)  
     https://github.com/olilarkin/awesome-musicdsp
 -   Web Audio API
@@ -1731,11 +1739,14 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Audio programming
     https://supercollider.github.io/
     https://cabbageaudio.com/
+    https://kabel.salat.dev/learn/
 
 ## Math
 
 -   https://ourway.keybase.pub/mathematics_cheat_sheet.pdf
 -   https://0a.io/chapter1/calculus-explained.html
+-   Duolingo for math ($50/m)
+    https://www.mathacademy.com/courses#mathematical-foundations
 -   http://calculusmadeeasy.org/
 -   Gilbert Strang Teaches Linear Algebra  
     https://news.ycombinator.com/item?id=22382337
@@ -1743,10 +1754,13 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://www.gamedev.tv/courses/enrolled/1303526
 -   Statistics  
     https://github.com/rmcelreath/stat_rethinking_2022
+    https://www.evanmiller.org/statistical-formulas-for-programmers.html
 -   Higher Math
     https://venhance.github.io/napkin/Napkin.pdf
 -   Discussion, learning math
     https://news.ycombinator.com/item?id=30591177
+-   Sorting (do not sort using a naive average)
+    https://www.evanmiller.org/how-not-to-sort-by-average-rating.html
 
 ## Misc.
 
@@ -1770,6 +1784,8 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   Drawing
     https://drawabox.com/
     https://news.ycombinator.com/item?id=39986687
+-   Touchtyping
+    https://www.keybr.com/help
 -   Directory of educational YouTube channels (all topics)
     https://limnology.co/en/languages/en/keywords
 
