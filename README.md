@@ -51,7 +51,6 @@ Contents
   - [Websockets](#websockets)
   - [AWS](#aws)
   - [Nginx](#nginx)
-  - [Databases](#databases)
   - [WordPress](#wordpress)
   - [Static Sites / Headless CMS](#static-sites--headless-cms)
   - [PHP](#php)
@@ -213,7 +212,6 @@ Contents
     https://ponyfoo.com/articles/brief-history-of-modularity
 -   Strive for pure functions  
     https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch08.md#old-mcdonald-had-effects  
-    http://adamjonrichardson.com/2013/09/07/fall-through-functions/
 -   Dates in javascript
     https://docs.timetime.in/blog/js-dates-finally-fixed/
 -   Strong types in javascript  
@@ -245,7 +243,6 @@ Contents
     https://news.ycombinator.com/item?id=33971432
     Log file viewer: https://lnav.org/
 -   Front-end testing best practices
-    https://infinum.com/handbook/frontend/react/testing-best-practices
     https://sveltesociety.dev/recipes/testing-and-debugging/unit-testing-svelte-component
 
 ## JavaScript Frameworks
@@ -339,8 +336,6 @@ Contents
 -   https://www.smashingmagazine.com/2019/10/editorial-design-patterns-css-grid-subgrid-naming/
 -   Z-index organization  
     https://hackernoon.com/my-approach-to-using-z-index-eca67feb079c
--   Vertical margins between different html elements  
-    https://medium.com/@sebastian.eberlein/advanced-vertical-margins-4ac69f032f79
 -   Move modules in source order based on mediaqueries  
     https://github.com/filamentgroup/AppendAround
 -   Experiments / Demos  
@@ -448,7 +443,6 @@ Contents
 ## Colour Schemes
 
 -   http://www.vanschneider.com/colors/
--   https://color.cloudflare.design/
 -   https://www.colorbox.io/
 -   https://meodai.github.io/poline/
 
@@ -460,7 +454,6 @@ Contents
 -   https://github.com/Easyfood/pageAccelerator
 -   Load less javascript  
     https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
--   https://varvy.com/pagespeed/defer-loading-javascript.html
 -   Jank-busting  
     https://pagebuildersandwich.com/increased-plugins-performance-200/
 -   Memory leaks  
@@ -494,7 +487,7 @@ Contents
     _Most of these are now obsolete because of native lazy-loading._
     https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native  
     https://github.com/alterebro/accessible-image-lazy-load  
-    https://deanhume.com/Home/BlogPost/lazy-loading-images-using-intersection-observer/10163  
+    https://deanhume.com/lazy-loading-images-using-intersection-observer/  
     https://github.com/aFarkas/lazysizes (used by kinfolk and ignant)  
     https://robinosborne.co.uk/2016/05/16/lazy-loading-images-dont-rely-on-javascript/  
     http://blog.dynamicdrive.com/5-brilliant-ways-to-lazy-load-images-for-faster-page-loads  
@@ -539,7 +532,6 @@ Contents
     Wide variety, open source: https://feathericons.com/  
     Fork of feather icons with larger variety: https://lucide.dev/
     https://www.svgrepo.com/  
-    https://www.snoweb-svg.com/en/
     https://humbleicons.com/
     https://heroicons.com/
     https://atlasicons.vectopus.com/
@@ -649,7 +641,6 @@ Contents
 -   Oldies, support has dropped off since their heyday
     http://flickity.metafizzy.co/
     http://kenwheeler.github.io/slick
--   http://mediatemple.net/blog/tips/carousels-dont-have-to-be-complicated/
 -   Basic functionality only: https://www.embla-carousel.com/
 -   https://naver.github.io/egjs-flicking/
 -   https://www.smashingmagazine.com/2022/04/designing-better-carousel-ux/
@@ -735,10 +726,6 @@ Contents
 -   https://code.tutsplus.com/tutorials/apache-vs-nginx-pros-cons-for-wordpress--cms-28540
 -   https://www.getpagespeed.com/server-setup/nginx-try_files-is-evil-too
 
-## Databases
-
--   http://rmosolgo.github.io/blog/2016/03/03/using-graphql-without-relay/
-
 ## WordPress
 
 -   Importing files from localhost to web server  
@@ -755,7 +742,7 @@ Contents
 
 -   Eleventy (super simple)  
     https://www.11ty.io/
--   https://www.netlifycms.org/
+-   https://decapcms.org/docs/intro/ (formerly Netlify CMS)
     -   very customizable content types
     -   content is stored in github and saved in commits and branches
     -   has built-in "relation" field type
@@ -774,13 +761,10 @@ Contents
     -   https://directus.io/
     -   https://strapi.io/
     -   https://getcockpit.com/documentation/core/quickstart/requirements
-    -   https://scotch.io/bar-talk/the-future-of-websites-headless-cmss
     -   CraftCMS - but is costly
 -   Frontity (WordPress backend + React frontend)
     -   https://frontity.org/
     -   similar to strapi?
--   WordPress > Static  
-    https://www.strattic.com/
 -   WordPress + Gatsby
 -   Svelte SSG  
     https://www.junglejs.org/  
@@ -861,7 +845,6 @@ Contents
 -   https://www.zachleat.com/web/css-tricks-web-fonts/
 -   Loading techniques for Google Fonts  
     https://csswizardry.com/2020/05/the-fastest-google-fonts/  
-    https://google-webfonts-helper.herokuapp.com/fonts (host google fonts locally)
 
 ## Font Stacks
 
@@ -874,7 +857,6 @@ Contents
 ## Aligning Text
 
 -   Aligning text baselines with form elements  
-    https://jsfiddle.net/05a1aeg1/  
     https://codyhouse.co/blog/post/vertical-text-alignment-in-buttons-and-inputs
 -   Resize text to fit container  
     https://github.com/rikschennink/fitty
@@ -913,7 +895,7 @@ Contents
 
 ## Font Design
 
--   http://www.fontsmith.com/blog/2016/06/27/optical-illusions-and-eye-trickery-in-geometric-font-design
+-   https://www.myfonts.com/a/font/content/optical-illusions-and-eye-trickery-in-geometric-font-design
 -   https://frerejones.com/blog/typeface-mechanics-002
 -   http://typographica.org/on-typography/making-geometric-type-work/
 
@@ -978,7 +960,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   http://paperjs.org/examples/
 -   https://daneden.github.io/animate.css/
 -   After Effects to Web/App  
-    https://airbnb.design/lottie/
+    https://airbnb.io/lottie/#/
 -   Simple rotating 3D objects (by metafizzy)  
     https://zzz.dog/
 -   Low-level tweening  
@@ -1086,7 +1068,6 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://stackoverflow.com/a/47206289/3976381  
     https://github.com/idiotWu/smooth-scrollbar
     https://locomotivemtl.github.io/locomotive-scroll/
-    https://github.com/studio-freight/lenis
 
 ## Parallax
 
@@ -1115,7 +1096,6 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   http://developer.telerik.com/featured/guide-browser-scroll-animations/ _(2016)_
 -   Get notified when a DOM element enters or exits the viewport  
     https://camwiegert.github.io/in-view/ _(2016)_
--   http://mynameismatthieu.com/WOW/
 -   https://github.com/jlmakes/scrollreveal
 -   https://q42.github.io/delighters/
 -   https://michalsnik.github.io/aos/
@@ -1146,7 +1126,6 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://pudding.cool/process/introducing-scrollama/
 -   https://tympanus.net/Development/StorytellingMap/
 -   Video scrubbing  
-    https://blog.koenvangilst.nl/tutorial-svelte-scroll-video/  
     https://www.ghosh.dev/posts/playing-with-video-scrubbing-animations-on-the-web/
 -   Examples  
     https://www.sbs.com.au/theboat/
@@ -1157,7 +1136,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 ## d3.js
 
--   https://wattenberger.com/blog/d3
+-   https://2019.wattenberger.com/blog/d3
 -   https://observablehq.com/@mitvis/introduction-to-d3
 -   https://www.d3indepth.com/
 
@@ -1202,7 +1181,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   World map generator (PNG, SVG)  
     https://www.worldmapgenerator.com/
 -   MapLibre GL (webgl js library)  
-    https://maplibre.org/projects/
+    https://maplibre.org/
 -   Utility library for geojson analysis (calculating distances, smoothing polygons, etc)
     https://turfjs.org
 
@@ -1293,7 +1272,6 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   All in one list of links for designers  
     http://evernote.design/
 -   https://github.com/LisaDziuba/Awesome-Design-Tools
--   https://www.niceverynice.com/
 -   https://github.com/sindresorhus/awesome
 
 ## Accessibility
@@ -1350,7 +1328,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 ## Process
 
 -   Discover, decide, make, validate  
-    https://methods.18f.gov/
+    https://guides.18f.org/methods/
 -   https://alistapart.com/article/practical-design-discovery
 -   https://medium.freecodecamp.com/no-budget-no-excuse-heres-a-practical-guide-to-ux-on-the-cheap-9605c77ef55b
 -   https://hbr.org/2008/05/the-customer-centered-innovation-map
@@ -1406,7 +1384,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 ## Game Design
 
--   https://nickbentley.games/2018/06/08/organicity-in-abstract-strategy-games/
+-   https://mindsports.nl/index.php/organicity-in-abstract-strategy-games
 -   Event queues  
     https://gameprogrammingpatterns.com/event-queue.html
 -   https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds
@@ -1521,7 +1499,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 -   https://news.ycombinator.com/item?id=19876825
 -   https://archive.ph/sa9xL (kirubakaran.com/blog/consulting-outline)
 -   https://training.kalzumeus.com/newsletters/archive/consulting_1
--   https://www.gkogan.co/blog/how-i-learned-to-get-consulting-leads/
+-   https://www.gkogan.co/how-to-find-consulting-clients/
 -   https://tomcritchlow.com/2019/04/04/the-strategic-independent/
 -   http://unixwiz.net/techtips/be-consultant.html
 
@@ -1595,8 +1573,6 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https
 -   Learning DNS  
     https://messwithdns.net/
--   TCP/IP
-    https://how-did-i-get-here.net/
 
 ## Anonymity
 
@@ -1634,8 +1610,6 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://news.ycombinator.com/item?id=26175894
 -   Shell scripting best practices
     https://sharats.me/posts/shell-script-best-practices/
--   Securing a new Linux server
-    https://pboyd.io/posts/securing-a-linux-vm/
 
 ## Vim
 
@@ -1743,8 +1717,6 @@ See also: [Data Viz Libraries](#data-viz-libraries)
 
 ## Math
 
--   https://ourway.keybase.pub/mathematics_cheat_sheet.pdf
--   https://0a.io/chapter1/calculus-explained.html
 -   Duolingo for math ($50/m)
     https://www.mathacademy.com/courses#mathematical-foundations
 -   http://calculusmadeeasy.org/
@@ -1772,7 +1744,7 @@ See also: [Data Viz Libraries](#data-viz-libraries)
     https://www.allaboutcircuits.com/textbook/
     https://news.ycombinator.com/item?id=35437065
     https://ultimateelectronicsbook.com/
-    https://invidious.flokinet.to/playlist?list=PL7qUW0KPfsIIOPOKL84wK_Qj9N7gvJX6v
+    https://www.youtube.com/playlist?list=PL7qUW0KPfsIIOPOKL84wK_Qj9N7gvJX6v
 -   Mind hacking  
     http://www.ludism.org/mentat/HomePage
 -   Languages  
